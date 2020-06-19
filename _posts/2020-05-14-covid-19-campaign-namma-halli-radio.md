@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "COVID-19 Campaign - Namma Halli Radio"
-author: mani and bhanu
+author: mani
 featured: true
 image: https://i.imgur.com/etBlxds.jpg
 toc: false
