@@ -62,9 +62,9 @@ authors:
     avatar: 'assets/images/favatar.png'
     #gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: shalini@servelots.com
-    web: janastu.org
-    twitter: https://twitter.com
-    description: "Author profile"
+    web: https://www.apc.org/en/user/1716/
+    #twitter: https://twitter.com
+    description: "The Boss, when it comes to community building, team issues, organisational reporting needs, and the systems and server admin tasks"
 
 # Plugins
 plugins:
