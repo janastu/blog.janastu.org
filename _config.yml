@@ -16,9 +16,9 @@ authors:
   janastu:
     name: janastu
     display_name: Janastu
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    avatar: assets/images/logo.png
     email: admin@janastu.org
-    web: https://www.wowthemes.net
+    web: janastu.org
     twitter: https://twitter.com/anthillhacks
     description: "Author profile"
   bhanu:
