@@ -6,6 +6,16 @@ Send a pull request for contributions and suggestions
 Note to Editor (or admin) to verify metadata before publishing
 check out this [issue](https://github.com/janastu/blog.janastu.org/issues/5) for metadata properties
 
+### Editorial workflow
+
+* contributors will push to `_drafts`
+* Editor will review files in `_drafts`
+  - check for formatting
+  - check for filename schema
+  - review content
+  - after all checks - will move to `_posts` folder
+  
+
 below credits
 
 ---
