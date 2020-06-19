@@ -3,7 +3,7 @@ layout: post
 title:  "lockdown libretalk"
 description: "Exploring State of Technology to Support Decentralised Ecosystems "
 author: janastu
-featured: true
+featured: false
 image: 
 toc: true
 ---
