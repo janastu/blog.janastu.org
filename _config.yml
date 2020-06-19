@@ -49,7 +49,7 @@ authors:
     description: "Author profile"
   sanketh:
     name: Sanketh
-    display_name: Choose your own    
+    display_name: Sanketh    
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: sanketh@servelots.com
@@ -58,7 +58,7 @@ authors:
     description: "Author profile"
   shalini:
     name: Shalini
-    display_name: Shalini A    
+    display_name: The Boss    
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: shalini@servelots.com
