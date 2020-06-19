@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "lockdown libretalk"
+author: janastu
+featured: true
+image: 
+toc: true
+---
+
 # lockdown libretalk v.3 
 
 
