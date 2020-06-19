@@ -1,4 +1,3 @@
-# Covid Stories
 ---
 layout: post
 title:  "Covid Stories"
@@ -8,6 +7,8 @@ featured: false
 image: https://i.imgur.com/IYiFoYT.jpg
 toc: false
 ---
+
+# Covid Stories
 
 ### Why have you taken the risk to come here?
 
