@@ -5,31 +5,66 @@ description: "Collection of Janastu stories"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+# google_analytics: 'UA-46278016-1'
+# disqus: 'demowebsite'
+# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  janastu:
+    name: janastu
+    display_name: Janastu
+    avatar: assets/images/logo.png
+    email: admin@janastu.org
+    web: janastu.org
+    twitter: https://twitter.com/anthillhacks
+    description: "Author profile"
+  bhanu:
     name: Bhanu
     display_name: Salus Sage
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: salus.sage@gmail.com
     web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
+    twitter: https://twitter.com/salus-sage
     description: "Author profile"
-  john:
-    name: John
-    display_name: John    
+  tbd:
+    name: TB Dinesh
+    display_name: janteel   
+    avatar: 'https://i.imgur.com/ZFqyNRE.gif'
+    # gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: dinesh@servelots.com
+    web: janastu.org
+    twitter: https://twitter.com/tbdinesh
+    description: "Author profile"
+  mani:
+    name: Manikantan
+    display_name: Mani    
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    email: mani@servelots.com
+    web: janastu.org
+    twitter: https://twitter.com/themanikantan
+    description: "Author profile"
+  sanketh:
+    name: Sanketh
+    display_name: Choose your own    
+    avatar: 'assets/images/avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: sanketh@servelots.com
+    web: janastu.org
+    twitter: https://twitter.com
+    description: "Author profile"
+  shalini:
+    name: Shalini
+    display_name: Shalini A    
+    avatar: 'assets/images/avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: shalini@servelots.com
+    web: janastu.org
+    twitter: https://twitter.com
+    description: "Author profile"
 
 # Plugins
 plugins:
@@ -62,11 +97,11 @@ kramdown:
       line_numbers: true
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3412143450191416"
-adsense-data-ad-slot: "1363087678"
+# adsense: "disabled"
+# adsense-data-ad-client: "ca-pub-3412143450191416"
+# adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
+lazyimages: "enabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]

@@ -1,6 +1,12 @@
-# Janastu / Servelots Narrative report for APC 2019
-###### tags: `Documentation` `Report` `Annual` `2019`
-[TOC]
+---
+layout: post
+title:  "Janastu / Servelots Narrative report for APC 2019"
+description: "Enabling real connectivity and information sharing among two under-recognised cohorts of the digital divide: non-literates, and girls and young women"
+author: bhanu
+featured: true
+image: https://lh3.googleusercontent.com/zEYL5SZ5RisJnGArgY6VaBkEMEBbliu3ixq1KG0tuuoq6b2qAoOUGnXg5sMgqk2YVyia2TfQMnBggt_mwKAO_s7lKsPrpvHjQF6F0eQ1w7p19OxUZ4v5gJROQ7XpP57NXveiBsrSIw=w2400
+toc: false
+---
 
 ## Our Long Term Objectives
 
@@ -10,7 +16,7 @@
 *  To stimulate meaningful participation within the local ecosystem. While the instantaneous, global reach of the internet is perhaps its most spectacular achievement, these tools help neophytes to connect locally and to engage deeply at a relatively small scale.
 
 
-## The Backpack Radio - Made with :heart: [COW Radio](https://gitlab.com/jivjanastu/cowradio)
+## The Backpack Radio - Made with ❤️ [COW Radio](https://gitlab.com/jivjanastu/cowradio)
 
 
 
@@ -148,7 +154,10 @@ Apart from the technical challenges, the fact that we also acknowledge is that t
 Now this is going to be a new beginning of the end, with a long term engagement with ASORCOM to see how we can architect solutions with mobile & handy radio's to their current publishing workflows. Also the enhancements or customizations that they would need for their usecase.
 
 
+
 ## A neverending Story
 > Humans are the animals who tell stories.  We share information and ideas within and among communities.  We talk to each other; and we always have. 
 
 After reading this [**short story**](https://docs.google.com/document/d/1qv-BPphsaq3R9xIIIIo56-pPByGB6D-b8g7P6SzKASw) come back here for continuation (updates).
+
+###### tags: `Documentation` `Report` `Annual` `2019`

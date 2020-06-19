@@ -1,7 +1,16 @@
+---
+layout: post
+title:  "lockdown libretalk"
+description: "Exploring State of Technology to Support Decentralised Ecosystems "
+author: janastu
+featured: false
+image: 
+toc: false
+---
+
 # lockdown libretalk v.3 
 
 
-[ToC]
 
 ##### Date, Time and Link
 Monday *June 8, 2020; 5:00 - 6:30 PM IST*; link: 8x8.vc/LibreTalks
