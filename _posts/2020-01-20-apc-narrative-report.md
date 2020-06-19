@@ -1,13 +1,11 @@
 ---
 layout: post
 title:  "Janastu / Servelots Narrative report for APC 2019"
-author: dinesh
+author: bhanu
 featured: true
+image: https://lh3.googleusercontent.com/zEYL5SZ5RisJnGArgY6VaBkEMEBbliu3ixq1KG0tuuoq6b2qAoOUGnXg5sMgqk2YVyia2TfQMnBggt_mwKAO_s7lKsPrpvHjQF6F0eQ1w7p19OxUZ4v5gJROQ7XpP57NXveiBsrSIw=w2400
 toc: true
 ---
-# Janastu / Servelots Narrative report for APC 2019
-###### tags: `Documentation` `Report` `Annual` `2019`
-[TOC]
 
 ## Our Long Term Objectives
 
@@ -155,7 +153,10 @@ Apart from the technical challenges, the fact that we also acknowledge is that t
 Now this is going to be a new beginning of the end, with a long term engagement with ASORCOM to see how we can architect solutions with mobile & handy radio's to their current publishing workflows. Also the enhancements or customizations that they would need for their usecase.
 
 
+
 ## A neverending Story
 > Humans are the animals who tell stories.  We share information and ideas within and among communities.  We talk to each other; and we always have. 
 
 After reading this [**short story**](https://docs.google.com/document/d/1qv-BPphsaq3R9xIIIIo56-pPByGB6D-b8g7P6SzKASw) come back here for continuation (updates).
+
+###### tags: `Documentation` `Report` `Annual` `2019`
