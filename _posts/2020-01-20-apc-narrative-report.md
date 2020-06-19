@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Janastu / Servelots Narrative report for APC 2019"
+author: dinesh
+featured: true
+toc: true
+---
 # Janastu / Servelots Narrative report for APC 2019
 ###### tags: `Documentation` `Report` `Annual` `2019`
 [TOC]
