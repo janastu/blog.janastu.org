@@ -13,23 +13,50 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  bhanu:
     name: Bhanu
     display_name: Salus Sage
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: salus.sage@gmail.com
     web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
+    twitter: https://twitter.com/salus-sage
     description: "Author profile"
-  john:
-    name: John
-    display_name: John    
+  tbd:
+    name: TB Dinesh
+    display_name: TB DInesh    
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    email: dinesh@servelots.com
+    web: janastu.org
+    twitter: https://twitter.com/tbdinesh
+    description: "Author profile"
+  mani:
+    name: Manikantan
+    display_name: Mani    
+    avatar: 'assets/images/avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: mani@servelots.com
+    web: janastu.org
+    twitter: https://twitter.com/themanikantan
+    description: "Author profile"
+  sanketh:
+    name: Sanketh
+    display_name: Choose your own    
+    avatar: 'assets/images/avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: sanketh@servelots.com
+    web: janastu.org
+    twitter: https://twitter.com
+    description: "Author profile"
+  shalini:
+    name: Shalini
+    display_name: Shalini A    
+    avatar: 'assets/images/avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: shalini@servelots.com
+    web: janastu.org
+    twitter: https://twitter.com
+    description: "Author profile"
 
 # Plugins
 plugins:
