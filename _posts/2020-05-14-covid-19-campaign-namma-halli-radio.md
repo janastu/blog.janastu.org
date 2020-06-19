@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "COVID-19 Campaign - Namma Halli Radio"
+author: mani and bhanu
+featured: true
+image: https://i.imgur.com/etBlxds.jpg
+toc: false
+---
+
 # COVID-19 Campaign - *Namma Halli Radio*
 
 *Our Village Radio* ("Namma Halli Radio"); *And it is our radio* ("namdu1radio"); *Our School Radio* ("Namma School Radio")
