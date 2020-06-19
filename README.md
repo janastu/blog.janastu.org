@@ -1,3 +1,15 @@
+# Janastu Blog
+
+[Live at blog.janastu.org](https://blog.janastu.org) 
+Send a pull request for contributions and suggestions
+
+Note to Editor (or admin) to verify metadata before publishing
+check out this [issue](https://github.com/janastu/blog.janastu.org/issues/5) for metadata properties
+
+below credits
+
+---
+
 # Mediumish - Jekyll Theme
 
 [Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)
