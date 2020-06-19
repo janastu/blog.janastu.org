@@ -2,19 +2,21 @@
 
 [Live at blog.janastu.org](https://blog.janastu.org) 
 Send a pull request for contributions and suggestions
+If you want to write on our blog, you can send us a short note via email to admin at janastu dot org
+and we will enable a profile for you.
 
 Note to Editor (or admin) to verify metadata before publishing
 check out this [issue](https://github.com/janastu/blog.janastu.org/issues/5) for metadata properties
 
 ### Editorial workflow
 
-* contributors will push to `_drafts`
+* Authors (contributors) will push to `_drafts`
 * Editor will review files in `_drafts`
   - check for formatting
   - check for filename schema
   - review content
   - after all checks - will move to `_posts` folder
-  
+* Admins can manage Author profiles in config.yml
 
 below credits
 
