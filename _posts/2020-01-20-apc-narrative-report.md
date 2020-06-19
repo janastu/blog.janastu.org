@@ -5,7 +5,7 @@ description: "Enabling real connectivity and information sharing among two under
 author: bhanu
 featured: true
 image: https://lh3.googleusercontent.com/zEYL5SZ5RisJnGArgY6VaBkEMEBbliu3ixq1KG0tuuoq6b2qAoOUGnXg5sMgqk2YVyia2TfQMnBggt_mwKAO_s7lKsPrpvHjQF6F0eQ1w7p19OxUZ4v5gJROQ7XpP57NXveiBsrSIw=w2400
-toc: true
+toc: false
 ---
 
 ## Our Long Term Objectives
@@ -16,7 +16,7 @@ toc: true
 *  To stimulate meaningful participation within the local ecosystem. While the instantaneous, global reach of the internet is perhaps its most spectacular achievement, these tools help neophytes to connect locally and to engage deeply at a relatively small scale.
 
 
-## The Backpack Radio - Made with :heart: [COW Radio](https://gitlab.com/jivjanastu/cowradio)
+## The Backpack Radio - Made with ❤️ [COW Radio](https://gitlab.com/jivjanastu/cowradio)
 
 
 
