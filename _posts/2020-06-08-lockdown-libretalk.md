@@ -4,7 +4,7 @@ title:  "lockdown libretalk"
 description: "Exploring State of Technology to Support Decentralised Ecosystems "
 author: janastu
 featured: false
-image: 
+image: assets/images/locked-down-migrants.png
 toc: false
 ---
 
