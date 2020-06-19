@@ -13,6 +13,14 @@ permalink: /:title/
 
 # Authors
 authors:
+  janastu:
+    name: janastu
+    display_name: Janastu
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: admin@janastu.org
+    web: https://www.wowthemes.net
+    twitter: https://twitter.com/anthillhacks
+    description: "Author profile"
   bhanu:
     name: Bhanu
     display_name: Salus Sage
