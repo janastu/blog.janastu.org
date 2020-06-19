@@ -2,12 +2,13 @@
 layout: post
 title:  "Covid Stories"
 description: "Why have you taken the risk to come here?"
-author: Shalini
+author: shalini
 featured: false
 image: https://i.imgur.com/LqkBOsn.jpg
 toc: false
 ---
 # Covid Stories 
+### Why have you taken the risk to come here?
 
 The Corono virus panic was all over world. And in India, the first case was identified at the end of Janauary. Slowly when the panic was building up in the country and we at Janastu were planning field travel to the villages in Uttar Pradesh in the month of march for our new project. Team of 8 were planned for the trip. Our tickets were booked and all other arrangements were done. When the cases were increasing and first death was reported in the country and state we were residing, the fear of travel started and slowly the team were dropping from the travel plan. By the time of travel date only 2 person decided to travel considering the need of social distancing and avoid visiting in groups to the villages. 
 
