@@ -158,6 +158,6 @@ Now this is going to be a new beginning of the end, with a long term engagement 
 ## A neverending Story
 > Humans are the animals who tell stories.  We share information and ideas within and among communities.  We talk to each other; and we always have. 
 
-After reading this [**short story**](https://docs.google.com/document/d/1qv-BPphsaq3R9xIIIIo56-pPByGB6D-b8g7P6SzKASw) come back here for continuation (updates).
+After reading this [**short story**](https://www.apc.org/en/node/36505/) come back here for continuation (updates).
 
 ###### tags: `Documentation` `Report` `Annual` `2019`
