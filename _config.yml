@@ -24,7 +24,8 @@ authors:
   bhanu:
     name: Bhanu
     display_name: Salus Sage
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    avatar: 'assets/images/bhanu-profile.png'
+    # gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: salus.sage@gmail.com
     web: https://www.wowthemes.net
     twitter: https://twitter.com/salus-sage
@@ -40,9 +41,8 @@ authors:
     description: "Author profile"
   mani:
     name: Manikantan
-    display_name: Mani    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    display_name: Mani
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: mani@servelots.com
     web: janastu.org
     twitter: https://twitter.com/themanikantan
