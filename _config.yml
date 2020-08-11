@@ -68,11 +68,11 @@ authors:
   upasana:
     name: upasana
     display_name: Upasana Bhattacharjee    
-    avatar: 'assets/images/ub.jpg'
+    avatar: 'assets/images/UB.jpg'
     #gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: upasanab97@gmail.com 
     # web: https://web.com
-    # twitter: https://twitter.com
+    twitter: https://twitter.com/_kaktarua
     description: The intersection of technology and society is a core area of interest for me
 # Plugins
 plugins:
