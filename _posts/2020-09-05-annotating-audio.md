@@ -3,7 +3,7 @@ layout: post
 title:  "Papad Annotating Audio"
 description: "Papad aims to be the audio visual publishing platform for the low literates, without barriers of knowing to read and write."
 categories: [ web annotation, papad, audio annotation ]
-author: bhanu, micah, shafali
+author: bhanu, janteel
 featured: true
 image: https://i.imgur.com/y5QHHzQ.png
 toc: false
