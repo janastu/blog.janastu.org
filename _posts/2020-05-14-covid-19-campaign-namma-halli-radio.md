@@ -40,7 +40,7 @@ Girish NP, a media enthusiast, created Namma Halli Radio in Tumakuru district, t
  
 In view of the on-going pandemic of **Coronavirus disease (COVID-19)**, Girish in Collaboration with Red Cross society reached out to the Tumakuru District administration to obtain necessary permissions to get going with the Covid-19 awareness reach out programme. The mobile Radio Van moves through the rural areas of Tumakuru district along with the team, Development consultants Dr G Achuth; Dr Sheela; social activist Gopikrishna; driver Manjanna; and Red Cross volunteer Panchaksharaiah; announcing Government orders and updates and also collecting stories from the field.
 
-👉 Listen to the [interviews](https://files.janastu.org/s/KbGd5RJGswsNna5?path=%2FAudios) and to see some [images](https://files.janastu.org/s/KbGd5RJGswsNna5?path=%2FImages) view all of our COVID-19 content here: https://bit.ly/covid19-campaign-nhr 
+👉 Listen to the [interviews](https://files.janastu.org/s/KbGd5RJGswsNna5?path=%2FAudios) and to see some [images](https://files.janastu.org/s/KbGd5RJGswsNna5?path=%2FImages) view all of our COVID-19 content here: [bit.ly/covid19-campaign-nhr](https://bit.ly/covid19-campaign-nhr) 
 
 Banner from namdu1radio [http://j.mp/n1radio-corona](http://j.mp/n1radio-corona) page:
 ![](https://static.wixstatic.com/media/4f0012_39bf69cece83410483d298d35b4ea3f1~mv2.jpg/v1/fill/w_1280,h_1280,q_85,usm_0.66_1.00_0.01/4f0012_39bf69cece83410483d298d35b4ea3f1~mv2_mscwdt.jpg)
@@ -48,17 +48,18 @@ Banner from namdu1radio [http://j.mp/n1radio-corona](http://j.mp/n1radio-corona)
 ![]()
 ## Links and references
 * [TVS school children doing covid19 campaign on  Namma School Radio from their home ](https://www.namdu1radio.com/tvs-school-radio)
-* j.mp/n1radio-corona
+* [j.mp/n1radio-corona](https://j.mp/n1radio-corona)
 * [Meet the man who's getting government school kids in rural Karnataka to run their own radio shows](https://www.edexlive.com/people/2019/sep/25/say-hello-to-namma-young-rjs-through-namma-halli-community-radio-in-durgadahalli-8375.html)
-* j.mp/janastu-mesh Or https://iruway.janastu.org/
+* [Video of Community Radio and Bamboo tower setup](https://tbdinesh-drive.mycozy.cloud/public?sharecode=B2nbAR3rnn6f) at Garkiyur/Karikkaiyur village near Kotagiri, TN
+* [j.mp/janastu-mesh](https://j.mp/janastu-mesh) or [iruway.janastu.org](https://iruway.janastu.org)
 * [Gram Marg: Enabling Rural India Digitally](http://sarbanibelur.blogspot.com/2019/07/enabling-community-participation-of.html)
 * [Enabling community participation of young girls and women: Janastu community mesh radio network](https://www.apc.org/en/blog/enabling-community-participation-young-girls-and-women-janastu-community-mesh-radio-network)
 * [Community networks learning grant initiatives](http://asorcom.net/community-networks-learning-grant-initiatives/)
 * [Weaving a community together – from grassroots to tech](https://www.apc.org/en/blog/weaving-community-together-grassroots-tech)
-* https://www.prajavani.net/educationcareer/education/its-nam-school-radio-665055.html
+* [www.prajavani.net/educationcareer/education/its-nam-school-radio-665055.html](https://www.prajavani.net/educationcareer/education/its-nam-school-radio-665055.html)
 * [WEAVING A COMMUNITY TOGETHER – by Gayatri Ganju](https://www.genderit.org/feminist-talk/weaving-community-together-grassroots-tech)
 * [A radio station for the kids, by the kids](https://www.newindianexpress.com/thesundaystandard/2018/nov/18/a-radio-station-for-the-kids-by-the-kids-1899792.html)
-* [W4P Suno Suno / Heeli Keeli - Vocal for Local] https://j.mp/JanastuW4Pmay2020
-* [This document] https://j.mp/CovidMobileRadio
+* [W4P Suno Suno / Heeli Keeli - Vocal for Local] [j.mp/JanastuW4Pmay2020](https://j.mp/JanastuW4Pmay2020)
+* [This document] [j.mp/CovidMobileRadio](https://j.mp/CovidMobileRadio)
 
 ---
