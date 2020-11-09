@@ -74,6 +74,15 @@ authors:
     # web: https://web.com
     twitter: https://twitter.com/_kaktarua
     description: Working at the intersection of technology and society.
+  Micah:
+    name: Micah
+    display_name: Micah Alex    
+    avatar: ''
+    #gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: themicahalex@gmail.com 
+    # web: https://web.com
+    twitter: 
+    description: 
 # Plugins
 plugins:
   - jekyll-paginate
