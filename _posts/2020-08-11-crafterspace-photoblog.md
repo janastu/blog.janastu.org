@@ -24,9 +24,9 @@ Iruway, or "iruve" means ants in kannada. As "iruve" becomes Iruway, we take ins
 
 <div class="two-by-two">
   
-  ![](https://i.imgur.com/Jm83GUn.jpg)
+  <img src="https://i.imgur.com/Jm83GUn.jpg" />
 
-  ![](https://i.imgur.com/sTdVM0p.jpg)
+  <img src="https://i.imgur.com/sTdVM0p.jpg" />
   
 </div>
 
