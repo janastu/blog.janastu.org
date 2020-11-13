@@ -60,14 +60,14 @@ The values like play, tinkering, openness and access become important for the pl
 
 
 **Reference links**
-1. Suno Suno, First field visti to Mirzapur and observations. https://hackmd.io/@sagesalus/SyTUZmKoU / https://storymaps.arcgis.com/stories/feb2631eb3ea489eb019ffb8282396f6 
-2. Open SOurce as infrastructure http://wiki.janastu.org/wiki/Open_Source_as_Infrastructure
-3. May June Mirzapur project report - https://hackmd.io/@tbdinesh/BJAfImaTI
+1. Suno Suno, First field visti to Mirzapur and observations. [https://hackmd.io/@sagesalus/SyTUZmKoU](https://hackmd.io/@sagesalus/SyTUZmKoU) / [https://storymaps.arcgis.com/stories/feb2631eb3ea489eb019ffb8282396f6](https://storymaps.arcgis.com/stories/feb2631eb3ea489eb019ffb8282396f6) 
+2. Open SOurce as infrastructure [http://wiki.janastu.org/wiki/Open_Source_as_Infrastructure](http://wiki.janastu.org/wiki/Open_Source_as_Infrastructure)
+3. May June Mirzapur project report - [https://hackmd.io/@tbdinesh/BJAfImaTI](https://hackmd.io/@tbdinesh/BJAfImaTI)
 4. **cowmesh**
 Janastu and Servelots have been engaging with WiFi-mesh networking since 2004 after the tsunami havoc on the east coast of south India. We started working with friends from the Freifunk community and other organisations working on rehabilitation-related networking needs. After the Dharamsala Wi-Fi Summit in 2006, volunteers worked with students and local communities to set up urban mesh networks similar to those of Freifunk. The [Follow the Sheep project](http://mitan.in/followsheep/#Home) project with a pastoral network in India experimented with tiny mesh networks at nomadic shepherd camps in 2010. 
 
 5. **alipi** 
-Over the last decade, we have progressively conceptuatised and worked on tools with low-literate people in mind. A11y.in (Accessibility guidelines for inclusion on the Web), Follow the Sheep app (BaaApp), Audio annotation tools (Papad), Sweet Web (wiki.janastu.org/wiki/Sweet_Web), Community radio (blog.janastu.org/covid..), Annotations and archives (papad.pantoto.org), mesh networks (namdu1radio.com) and anthillhacks (j.mp/myhill). 
+Over the last decade, we have progressively conceptuatised and worked on tools with low-literate people in mind. A11y.in (Accessibility guidelines for inclusion on the Web), Follow the Sheep app (BaaApp), Audio annotation tools (Papad), [Sweet Web](wiki.janastu.org/wiki/Sweet_Web), [Community radio](https://blog.janastu.org/covid-19-campaign-namma-halli-radio), [Annotations and archives](papad.pantoto.org), [mesh networks](namdu1radio.com) and [anthillhacks](j.mp/myhill). 
 
 6. **support** 
 Thanks to community of support in various forms. To name a few.. Rotary, Commotion, APC, W4P, local Devarayanadurga community, *iruway* farm, and Anthillhacks participants. 
