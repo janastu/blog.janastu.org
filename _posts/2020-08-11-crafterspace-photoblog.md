@@ -47,7 +47,7 @@ Activities like basket weaving exist within structures of caste, and coupled wit
 
 The idea behind CrafterSpace was to focus on the local: local materials, local knowledge, local labour.
 
-<div class="two-by-two>
+<div class="two-by-two">
   <img src="https://i.imgur.com/Jem2F9c.jpg" alt=""/>
 
   <img src="https://i.imgur.com/KllN1uw.jpg" alt=""/>
