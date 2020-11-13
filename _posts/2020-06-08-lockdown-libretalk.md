@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "lockdown libretalk"
-description: "Exploring State of Technology to Support Decentralised Ecosystems "
+excerpt: "Exploring State of Technology to Support Decentralised Ecosystems "
 author: janastu
 featured: false
 image: assets/images/locked-down-migrants.png
