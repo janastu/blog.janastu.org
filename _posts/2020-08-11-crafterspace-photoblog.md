@@ -23,9 +23,11 @@ Iruway is a farm located at the foothills of Devarayandurga near Durgadahalli vi
 Iruway, or "iruve" means ants in kannada. As "iruve" becomes Iruway, we take inspiration from ants, as creatures of cooperation, coordination and the collective. Iruway was built with this concept, to foster a sustainable alternative for local knowledge creation and creativity.
 
 <div class="two-by-two">
+  
   ![](https://i.imgur.com/Jm83GUn.jpg)
 
   ![](https://i.imgur.com/sTdVM0p.jpg)
+  
 </div>
 
 
