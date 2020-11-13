@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Covid Stories"
-description: "Why have you taken the risk to come here?"
+excerpt: "Why have you taken the risk to come here?"
 author: shalini
 featured: false
 image: https://i.imgur.com/IYiFoYT.jpg
