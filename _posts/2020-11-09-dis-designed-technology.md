@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Who paves our road"
-description: "A few things can be achieved through technology, and a few more through contextual, open-source, local and community-based technology."
+excerpt: "A few things can be achieved through technology, and a few more through contextual, open-source, local and community-based technology."
 categories: [ Aamne Saamne Pi, Webinar Pi ]
 author: Micah
 featured: false
