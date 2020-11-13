@@ -22,9 +22,12 @@ Iruway is a farm located at the foothills of Devarayandurga near Durgadahalli vi
 ![](https://i.imgur.com/Jk9mcmU.jpg)
 Iruway, or "iruve" means ants in kannada. As "iruve" becomes Iruway, we take inspiration from ants, as creatures of cooperation, coordination and the collective. Iruway was built with this concept, to foster a sustainable alternative for local knowledge creation and creativity.
 
-![](https://i.imgur.com/Jm83GUn.jpg)
+<div class="two-by-two">
+  ![](https://i.imgur.com/Jm83GUn.jpg)
 
-![](https://i.imgur.com/sTdVM0p.jpg)
+  ![](https://i.imgur.com/sTdVM0p.jpg)
+</div>
+
 
 One of the projects within Iruway is the CrafterSpace, a craft cluster project started by Mitan and Janastu, funded by Rotary Dist. 3190.
 
