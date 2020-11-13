@@ -3,18 +3,18 @@ layout: post
 title:  "A case for a Webinar Pi"
 description: "We have been making a case for storytelling and making as essential for inclusive development. Our rural ecosystem is losing voice due to the distance created between the textually prolific internet and the low literate."
 categories: [ Aamne Saamne Pi, Webinar Pi ]
-author: Janastu
+author: janastu
 featured: true
-image: https://i.imgur.com/gX4qhA0.jpg
+image: https://i.imgur.com/uVJSj6v.jpg
 toc: false
 comments: false
 ---
 
 # A *case* for a Webinar Pi
 
-![](https://i.imgur.com/gX4qhA0.jpg)
-
 > Can technology end poverty? ..Technology—no matter how well designed—is only a magnifier of human intent and capacity. -- Kentaro Toyama
+
+![](https://i.imgur.com/gX4qhA0.jpg)
 
 ## Introduction
 
