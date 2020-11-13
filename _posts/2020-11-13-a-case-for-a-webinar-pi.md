@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A case for a Webinar Pi"
-description: "We have been making a case for storytelling and making as essential for inclusive development. Our rural ecosystem is losing voice due to the distance created between the textually prolific internet and the low literate."
+excerpt: "We have been making a case for storytelling and making as essential for inclusive development. Our rural ecosystem is losing voice due to the distance created between the textually prolific internet and the low literate."
 categories: [ Aamne Saamne Pi, Webinar Pi ]
 author: janastu
 featured: true
