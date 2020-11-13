@@ -47,9 +47,11 @@ Activities like basket weaving exist within structures of caste, and coupled wit
 
 The idea behind CrafterSpace was to focus on the local: local materials, local knowledge, local labour.
 
-![](https://i.imgur.com/Jem2F9c.jpg)
+<div class="two-by-two>
+  <img src="https://i.imgur.com/Jem2F9c.jpg" alt=""/>
 
-![](https://i.imgur.com/KllN1uw.jpg)
+  <img src="https://i.imgur.com/KllN1uw.jpg" alt=""/>
+</div>
 
 
 As such, the communities that run CrafterSpace use local resources like Areca, Banana Stem, Bullrush, Coconut and Palm, among others.
