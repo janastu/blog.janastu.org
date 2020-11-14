@@ -9,7 +9,15 @@ image: https://i.imgur.com/fSDtmMe.jpg
 toc: false
 comments: false
 ---
-
+img {
+	display: block;
+	flex-shrink: 1;
+	min-width: 0;
+	height: auto;
+	width: 100%;
+	align-self: flex-start;
+	margin-right: .5rem;
+}
 
 # रस्तो के सपने और सपनों के रास्ते
 
@@ -17,7 +25,7 @@ With smart devices being so commonly available, it is now possible for communiti
 The obsession behind scalability and data-mining has driven it out of smaller localities, neighbourhoods, communities. The internet is thus, forcefully molded to always work at global scales. This means that the design of these devices and technologies are by nature, broad-sweeping and therefore, lack any kind of specificity. This point becomes clearer in the next example.  While phones might be most familiar in low literate contexts, they are inherently personal devices. In low income areas they are generally unavailable to the women and the low literate members of a household. Devices could instead be inclusive, available to a group and adaptable to different contexts. Encouraging the reuse, repair and recycling of peripherals can also be adopted as a strategy to keep the costs of using local tech-ecosystems low.
 
 ![](https://i.imgur.com/fSDtmMe.jpg)
-
+*Title Image*
 ## Our work in Mirzapur
 Through the [Work 4 Progress](https://www.work4progress.org) project, we started to experiment with our ideas of how to deal with this. We were bringing these ideas to the communities that we were partnering with to see if they would agree with us and see value in such an approach. W4P with [Development Alternatives](https://www.devalt.org/) have been helping stimulate economic initiatives over a couple of years now in Mirzapur, UP. It is one of the districts that were identified as one of the backward districts. Over the last few months, [Janastu](https://janastu.org/) and [Medha](https://medha.org.in/) have joined the effort. They have actively engaged in a dialogue with some of the girls from a few villages. The objective was to learn from them about the ways that we can help them identify collaborations in order to create a hyperlocal system of gig offerings from their talents. This brought forward the need for providing connected devices to the girls. However, this was a decision that we couldn’t and didn’t make lightly. As their exposure to the Internet, connected devices and the Web increases through interventions like ours, there is no option but to nurture a safe and cohesive community network. 
 The way we approached the project to build an entrepreneurial micro-market among the girls was through 
