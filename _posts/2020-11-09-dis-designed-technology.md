@@ -38,6 +38,8 @@ reconfiguring the tools for different cultural/communal/individual practices, pr
 
 ![](https://i.imgur.com/1UUDH8k.jpg)
 *About one our newer makings*
+
+
 So in our different [phases](#three-different-phases) we are using and reconfiguring different tools. For phase 1, Hamaari Pehchaan, which was about expressing individual personality - we started exploring Inshot, a video-making app, with the girls. They were told to do some activities with the application. We also tried to get a local mesh going with the file synchronisation service, Syncthing, but it hasn’t stuck. We also started putting together a special device during this phase. The Aamne Samne Pi was built to be modular, open-source and repairable. Using a raspberry pi, we built a system that the girls could use instead of a laptop. We also preinstalled content-creation and curation tools that are open source and among the ones we use. As Phase 2 continues and we engage with girls daily, they continue to explore their different dreams for themselves, their families and communities. We are also showing the different ways that we, as a team, make digital objects like websites, illustrations, blogs, youtube channels and marketplaces. As we go into phase 3 these activities will help us gauge interest and design our engagements accordingly. 
 Through our explorations of configuring different pathways that this ecosystem could start and reproduce we came up with a few scenarios. 
 **In this section, I’ll be adding descriptions of the mentioned tools in the comments** 
@@ -45,12 +47,14 @@ Through our explorations of configuring different pathways that this ecosystem c
 
 ![](https://i.imgur.com/nCHuVCi.jpg)
 *Scenario 1*
+
 These scenarios and use-cases illustrate how some of the tools that we have been introducing to the girls could be used. 
 
 ![](https://i.imgur.com/hrw3IQ6.jpg)
 *Scenario 2*
 
 These tools also represent the ethos of the Janastu team that is local, contextual and open-source. 
+
 ![](https://i.imgur.com/MaWMquf.jpg)
 *Scenario 3*
 
