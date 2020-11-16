@@ -11,7 +11,7 @@ comments: false
 ---
 *This blog is co-authored by Micah, Shafali, Yatharth and Dinesh*
 
-*"**The journey is as important as the destination, but so are the roads we build for the journey to take place in the first place**"*
+*"**The journey is as important as the destination, but so are the roads we build for the journey in the first place**"*
 
 # रस्तो के सपने और सपनों के रास्ते
 
