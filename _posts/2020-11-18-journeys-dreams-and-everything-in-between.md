@@ -37,6 +37,7 @@ Keeping this in mind, we reconfigured existing devices and tools to attempt to s
 reconfiguring the tools for different cultural/communal/individual practices, providing different devices that can be reused and repaired and designing for local communication networks.
 
 ![](https://i.imgur.com/1UUDH8k.jpg)
+
 *About one our newer makings*
 
 
