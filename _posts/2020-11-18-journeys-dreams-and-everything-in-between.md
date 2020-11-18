@@ -7,7 +7,7 @@ author: Micah
 featured: false
 image: https://i.imgur.com/fSDtmMe.jpg
 toc: false
-comments: false
+comments: true
 ---
 *This blog is co-authored by Micah, Shafali, Yatharth and Dinesh*
 
@@ -60,7 +60,7 @@ These tools also represent the ethos of the Janastu team that is local, contextu
 
 
 # The Way forward
-It is necessary for builders of community networks to reflect on how to also build support systems that complement these networks. These systems must work to simplify and recontextualise the process of using and reconfiguring different technologies for cultural/communal/individual creativity. It is not just enough to have one groundbreaking app when we talk about alternative technological development pathways. The stakeholders must strive to, inclusively, create ecosystems of support/co-mentoring/peer-learning/experimentation. These are only possible to create when there is an environment of fun, curiosity, play and learning. We are looking forward to exploring tech eco-systems that allow for young women to express freely, discover each other and connect for creative opportunities. A healthy online-offline, local-global network for young women to include and identify others around them can jump start a culture of stimulating economic growth lowering the stakes of and barriers to experimentation. This exploration is in service of them being able to articulate their identities and aspirations in safe, non-judgemental spaces while providing support to see how we can take these learnings forward. 
+It is necessary for builders of community networks to reflect on how to also build support systems that complement these networks. These systems must work to simplify and recontextualise the process of using and reconfiguring different technologies for cultural/communal/individual creativity. It is not just enough to have one groundbreaking app or digital product when we talk about alternative technological development pathways. The stakeholders must strive to, inclusively, create ecosystems of support/co-mentoring/peer-learning/experimentation. These are only possible to create when there is an environment of fun, curiosity, play and learning. We are looking forward to exploring tech eco-systems that allow for young women to express freely, discover each other and connect for creative opportunities. A healthy online-offline, local-global network for young women to include and identify others around them can jump start a culture of stimulating economic growth lowering the stakes of and barriers to experimentation. This exploration is in service of them being able to articulate their identities and aspirations in safe, non-judgemental spaces while providing support to see how we can take these learnings forward. 
 
 ![](https://i.imgur.com/W57PpYZ.jpg)
 *Scenario 4*
