@@ -4,7 +4,7 @@ title:  "Journeys, Dreams and everything in between"
 excerpt: "A few things can be achieved through technology, and a few more through contextual, open-source, local and community-based technology."
 categories: [ Aamne Saamne Pi, Webinar Pi ]
 author: Micah 
-featured: false
+featured: true
 image: https://i.imgur.com/fSDtmMe.jpg
 toc: false
 comments: true
