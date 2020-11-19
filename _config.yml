@@ -1,7 +1,7 @@
 # Site
-name: "Janastu Blog"
-title: "Janastu - Blog"
-description: "Collection of Janastu stories"
+name: "Janastu - Servelots Blog"
+title: "Janastu - Servelots Blog"
+description: "Collection of Janastu - Servelots stories"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
