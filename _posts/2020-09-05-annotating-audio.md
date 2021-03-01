@@ -10,6 +10,7 @@ toc: false
 comments: false
 ---
 
+# Papad annotating audio
 
 > History is something that very few people have been doing while everyone else was ploughing fields and carrying water buckets.
 Sapiens: A Brief History of Humankind, Book by Yuval Noah Harari - page 114
