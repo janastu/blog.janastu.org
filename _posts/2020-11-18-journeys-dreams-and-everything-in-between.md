@@ -9,6 +9,7 @@ image: https://i.imgur.com/fSDtmMe.jpg
 toc: false
 comments: true
 ---
+# Journeys dreams and everything in between
 *This blog is co-authored by Micah, Shafali, Yatharth and Dinesh*
 
 *"**The journey is as important as the destination, but so are the roads we build for the journey in the first place**"*
