@@ -4,7 +4,7 @@ title:  "Sculpting a Webinar Pi - The Pi 4 Debacles"
 excerpt: "In order to make technology accessible, you must foster transperency and care"
 author: Dinesh, Sanketh and Micah
 featured: true
-image: 
+image: https://i.imgur.com/ij8lHFO.jpg
 toc: false
 comments: true
 ---
@@ -23,7 +23,7 @@ As we argued in our article for **[A case for a Webinar Pi](https://blog.janastu
 - locally available and repairable peripherals
 - making it independant from grid power
 - audio-visual communications so as to nurture systems of care and collaboration not obstructed by the boundaries of "literacy"
-
+![](https://i.imgur.com/ij8lHFO.jpg)
 
 Due to lockdown, the situation on the ground changed where we had to address the need of the girls that we are working with to attend online classes. Our device now had to accommodate webinars. Aamne Saamne Pi (ASPi - a webinar device built on the Raspberry Pi) was conceptualised for collectives and groups of college-going girls who have not been able to continue their vocational education and schooling because of the ongoing pandemic. This is a substantial contribution to edu-tech as it seeks to address the problems of connectivity and schooling faced by most of the households in the country. 
 
