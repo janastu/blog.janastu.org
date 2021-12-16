@@ -12,7 +12,8 @@ comments: true
 
 This is a semi-sarcastic take on producers of technology and their assumptions - one specifically. Sarcasm-anger will be marked in italics. 
 > *Like that's all it takes to fix this hot mess*.
-> 
+
+
 As we argued in our article for **[A case for a Webinar Pi](https://blog.janastu.org/a-case-for-a-webinar-pi/)** - the need for a community-based local device was becoming evident to us. We needed a general purpose computer that was configured and designed for the local context. These general themes started to come from our recent project in Mirzapur, where we worked in collaboration with young girls and women to build capabilities that could lead to a local creative gig economy. During the course of the project, the specific needs that became apparent were: 
 - a local device installed on site - physical site
 - can be used by many people - community use
