@@ -2,7 +2,7 @@
 layout: post
 title:  "ASPi Reflections - Contextualising and Localizing Technology in Taragram"
 excerpt: "We visited the Taragram campus for the W4P meetup where many of the partnering organisations came together."
-author: Janastu
+author: janastu
 featured: true
 image: https://i.imgur.com/J3Sumqx.jpg
 toc: false
