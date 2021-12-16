@@ -2,7 +2,7 @@
 layout: post
 title:  "Sculpting a Webinar Pi - The Pi 4 Debacles"
 excerpt: "In order to make technology accessible, you must foster transperency and care"
-author: Janastu
+author: janastu
 featured: true
 image: https://i.imgur.com/ij8lHFO.jpg
 toc: false
