@@ -81,7 +81,7 @@ Below are some of the maps work in progress with annotations and some close to c
 
 ##### Uttarakhand
 
-![](https://i.imgur.com/tAjCNqs.png =480x480)
+![](https://i.imgur.com/zpDTwi9.jpg)
 
 ##### Tamilnadu
 
