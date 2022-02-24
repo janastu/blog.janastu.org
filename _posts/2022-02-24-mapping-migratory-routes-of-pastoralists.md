@@ -101,6 +101,6 @@ Below are some of the maps work in progress with annotations and some close to c
 
 
 ## References
-Other links and references here: https://open.janastu.org/projects/pastoral
+Other links and references here: [https://open.janastu.org/projects/pastoral](https://open.janastu.org/projects/pastoral)
 
-General mapping https://twitter.com/PratapVardhan/status/1496342917849686016
+[General mapping https://twitter.com/PratapVardhan/status/1496342917849686016](https://twitter.com/PratapVardhan/status/1496342917849686016) 
