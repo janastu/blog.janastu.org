@@ -4,7 +4,7 @@ title:  "Papad Annotating Audio"
 excerpt: "Papad aims to be the audio visual publishing platform for the low literates, without barriers of knowing to read and write."
 categories: [ web annotation, papad, audio annotation ]
 author: janastu
-featured: true
+featured: false
 image: https://i.imgur.com/y5QHHzQ.png
 toc: false
 comments: false
