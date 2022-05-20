@@ -18,7 +18,7 @@ authors:
     display_name: Janastu
     avatar: assets/images/logo.png
     email: admin@janastu.org
-    web: janastu.org
+    web: https://janastu.org
     twitter: https://twitter.com/servelots
     description: "Providing FOSS & support since 1999, our rural research lab http://iruway.janastu.org"
   bhanu:
@@ -27,16 +27,16 @@ authors:
     avatar: 'assets/images/bhanu-profile.png'
     # gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: salus.sage@gmail.com
-    web: https://www.wowthemes.net
+    # web: https://www.wowthemes.net
     twitter: https://twitter.com/salus-sage
-    description: "Author profile"
+    description: "Mad Hatter - wearer of many hats!"
   tbd:
     name: TB Dinesh
     display_name: janteel   
     avatar: 'assets/images/tbd-gravatar.gif'
     # gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: dinesh@servelots.com
-    web: janastu.org
+    web: https://janastu.org
     twitter: https://twitter.com/tbdinesh
     description: "Author profile"
   mani:
@@ -44,7 +44,7 @@ authors:
     display_name: Mani
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: mani@servelots.com
-    web: janastu.org
+    web: https://janastu.org
     twitter: https://twitter.com/themanikantan
     description: "Author profile"
   sanketh:
@@ -53,7 +53,7 @@ authors:
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: sanketh@servelots.com
-    web: janastu.org
+    web: https://janastu.org
     twitter: https://twitter.com
     description: "Author profile"
   shalini:
