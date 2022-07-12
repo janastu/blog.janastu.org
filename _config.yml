@@ -83,6 +83,15 @@ authors:
     # web: https://web.com
     twitter: https://twitter.com/MicahAlex_
     description: Gardening the in-between
+  pradyumna:
+    name: Pradyumna Taduri
+    display_name: Pradyumna    
+    avatar: ''
+    #gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email:  
+    # web: https://web.com
+    twitter: 
+    description: Gardening the in-between
 # Plugins
 plugins:
   - jekyll-paginate
