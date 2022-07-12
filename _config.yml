@@ -85,13 +85,13 @@ authors:
     description: Gardening the in-between
   pradyumna:
     name: Pradyumna Taduri
-    display_name: Pradyumna    
-    avatar: ''
+    display_name: Pradyumna Taduri    
+    avatar: 'https://citapp.iiitb.ac.in/wp-content/uploads/2022/03/image3.jpg'
     #gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email:  
-    # web: https://web.com
-    twitter: 
-    description: Gardening the in-between
+    email: pradyumnataduri@gmail.com 
+    web: https://citapp.iiitb.ac.in/mstudent/pradyumna-taduri/
+    # twitter: 
+    description: MSc Digital Society, Ex coder.
 # Plugins
 plugins:
   - jekyll-paginate
