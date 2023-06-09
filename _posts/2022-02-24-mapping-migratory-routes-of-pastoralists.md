@@ -2,6 +2,7 @@
 layout: post
 title:  "Mapping migratory routes of pastoralists across India"
 excerpt: "We worked with Center for Pastoralism recently to illustrate a few migratory routes in different states that pastoralists usually travel through."
+categories: [ Mapping ]
 author: janastu
 featured: true
 image: https://i.imgur.com/5OxlwFb.png
