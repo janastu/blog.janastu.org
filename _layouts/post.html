@@ -95,34 +95,9 @@ post_class: post-template
                 </small>
             </p>
 
-            <!-- Post Categories -->
-            <!-- div class="after-post-cats">
-                <ul class="tags mb-4">
-                    {% assign sortedCategories = page.categories | sort %}
-                    {% for category in sortedCategories %}
-                    <li>
-                        <a class="smoothscroll" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>
-                    </li>
-                    {% endfor %}
-                </ul>
-            </div -->
-            <!-- End Categories -->
-
-            <!-- Post Tags -->
-            <!-- div class="after-post-tags">
-                <ul class="tags">
-                    {% assign sortedTags = page.tags | sort %}
-                    {% for tag in sortedTags %}
-                    <li>
-                        <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
-                    </li>
-                    {% endfor %}
-                </ul>
-            </div -->
-            <!-- End Tags -->
-
+           
             <!-- Prev/Next -->
-            <!-- div class="row PageNavigation d-flex justify-content-between font-weight-bold">
+            <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
             {% if page.previous.url %}
             <a class="prev d-block col-md-6" href="{{page.previous.url | relative_url }}"> &laquo; {{page.previous.title}}</a>
             {% endif %}
@@ -130,7 +105,7 @@ post_class: post-template
             <a class="next d-block col-md-6 text-lg-right" href="{{page.next.url | relative_url }}">{{page.next.title}} &raquo; </a>
             {% endif %}
             <div class="clearfix"></div>
-            </div -->
+            </div>
             <!-- End Categories -->
 
         </div>
