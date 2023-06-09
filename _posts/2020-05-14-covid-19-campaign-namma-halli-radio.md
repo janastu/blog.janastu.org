@@ -2,6 +2,7 @@
 layout: post
 title:  "COVID-19 Campaign - Namma Halli Radio"
 excerpt: "In the last one month, the mobile radio station has visited 60 villages in Tumakuru district and has reached over 25,000 people - said one  english daily"
+categories: [ Covid19 ]
 author: mani
 featured: true
 image: https://i.imgur.com/etBlxds.jpg
