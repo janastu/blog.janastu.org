@@ -2,6 +2,7 @@
 layout: post
 title:  "Covid Stories"
 excerpt: "Why have you taken the risk to come here?"
+categories: [ Covid19 ]
 author: shalini
 featured: false
 image: https://i.imgur.com/IYiFoYT.jpg
