@@ -2,7 +2,7 @@
 layout: post
 title:  "Janastu / Servelots Narrative report for APC 2019"
 excerpt: "Enabling real connectivity and information sharing among two under-recognised cohorts of..."
-categories: "Reports"
+categories: [ Reports ]
 author: bhanu
 featured: false
 image: https://lh3.googleusercontent.com/zEYL5SZ5RisJnGArgY6VaBkEMEBbliu3ixq1KG0tuuoq6b2qAoOUGnXg5sMgqk2YVyia2TfQMnBggt_mwKAO_s7lKsPrpvHjQF6F0eQ1w7p19OxUZ4v5gJROQ7XpP57NXveiBsrSIw=w2400
