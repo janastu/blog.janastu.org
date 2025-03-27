@@ -33,7 +33,7 @@ animation of evaluation of computer, history of computer showed to children and 
 during hands on session, child learning how to connect and disconnect components of computer.
 
 ![](https://i.imgur.com/cEed1bm.jpeg)
-During session, children were asked to perform as how software perform according to instruction.
+during session, children were asked to perform as how software perform according to instruction.
 
 Additionally, through CrafterSpace, we provide training for women and youth, helping them learn how to use digital tools for crafts, communication, and business. We also experimented with AI applications for embroidery tutorials and learning Kannada, but AI struggled with local slang and failed to provide responses in the villagers' language, highlighting the need for better AI training in rural dialects.
 
