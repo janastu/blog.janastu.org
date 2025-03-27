@@ -28,9 +28,9 @@ When we started, school computers were not in working condition, so we repaired 
 
 ![](https://i.imgur.com/1lCv0Wu.jpeg)
 
-![](https://i.imgur.com/1lCv0Wu.jpeg)
+![](https://i.imgur.com/dOHd81O.jpeg)
 
-![](https://imgur.com/cEed1bm)
+![](https://i.imgur.com/cEed1bm.jpeg)
 
 Additionally, through CrafterSpace, we provide training for women and youth, helping them learn how to use digital tools for crafts, communication, and business. We also experimented with AI applications for embroidery tutorials and learning Kannada, but AI struggled with local slang and failed to provide responses in the villagers' language, highlighting the need for better AI training in rural dialects.
 
