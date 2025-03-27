@@ -27,14 +27,19 @@ When we started, school computers were not in working condition, so we repaired 
 
 
 ![](https://i.imgur.com/1lCv0Wu.jpeg)
+animation of evaluation of computer, history of computer showed to children and they curiously involved themselves in the session.
 
 ![](https://i.imgur.com/dOHd81O.jpeg)
+during hands on session, child learning how to connect and disconnect components of computer.
 
 ![](https://i.imgur.com/cEed1bm.jpeg)
+During session, children were asked to perform as how software perform according to instruction.
 
 Additionally, through CrafterSpace, we provide training for women and youth, helping them learn how to use digital tools for crafts, communication, and business. We also experimented with AI applications for embroidery tutorials and learning Kannada, but AI struggled with local slang and failed to provide responses in the villagers' language, highlighting the need for better AI training in rural dialects.
 
 ![](https://i.imgur.com/WVTtLNz.jpeg)
+crafterspace women learning Kannada alphabet and English alphabet in the crafterspace.
+
 
 To sustain this effort, Janastu is planning a summer camp during the holidays, where children will further explore digital literacy and AI concepts in an engaging environment.
 
