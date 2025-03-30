@@ -19,7 +19,7 @@ more to write
 # Exploring Tiny Makerspace Opportunities
 Learning Labs
 
-# Kids are Kids are Comfortable in Speaking
+# Kids are Comfortable in Speaking
 "We are the kids.. how come we are ignored"
 
 # Kids to Teach their Parents
