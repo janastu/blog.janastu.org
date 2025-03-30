@@ -4,7 +4,7 @@ title:  "Adult Literacy at Craft Center"
 excerpt: "Experiments to make AI more accessible"
 author: Janastu
 featured: true
-image: https://photos.google.com/photo/AF1QipOKdN27hT_1MnjrYazqLhIei2iUxwyqsPO6TbP2
+image: https://imgur.com/a/ERV3pXX
 toc: false
 comments: true
 tags: people, AI, COWMesh, village, Janastu, blog
