@@ -44,6 +44,6 @@ We also used open-source Indian voice models and implemented an interface that a
 ## From silence to shared conversations
 
 Many women were initially hesitant to record her voice, as they feared that speaking publicly about her experiences might lead to social consequences. During a demonstration session, they observed how voice anonymity could alter the identity of a recording.
-After several interactions and gaining confidence in the process, they agreed to record their stories and issues related to gender and caste discrimination, domestic violence, education and villages. When their story was later played on the community radio platform, it resonated with other women, who began sharing similar experiences.
+After several interactions and gaining confidence in the process, they agreed to record folklore stories, their stories, experiences and issues related to gender and caste discrimination, domestic violence, education and villages. When their story was later played on the community radio platform, it resonated with other women, who began sharing similar experiences.
 That moment marked a significant shift, as an issue that was previously considered personal became part of a collective conversation. The ability to speak anonymously enabled participation, which in turn enabled shared understanding and dialogue.
 
