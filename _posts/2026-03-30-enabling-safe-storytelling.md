@@ -29,7 +29,7 @@ We set up a digital kiosk with a microphone in a craft centre where women regula
 
 ![Radio Page](/assets/images/Screenshot_20260430_210705.png)
 
-We developed a community radio application that runs locally within a WiFi mesh network. This allows audio content to be shared and accessed without internet connectivity. Women could record and listen to stories within their own community, and group listening became an important part of the experience.
+We developed a community radio application that runs locally within a WiFi mesh network. This allows audio content to be shared and accessed without internet connectivity. Women could record and listen to stories within their own community.
 
 ## Building a privacy-focused voice anonymization system
 
