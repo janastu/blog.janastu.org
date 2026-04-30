@@ -12,7 +12,7 @@ tags: people, AI, COWMesh, village, Janastu
 # Enabling Safe Storytelling for Rural Women through Voice Anonymity
 
 In the rural communities we work with in Karnataka, many women are comfortable sharing their experiences orally, but hesitate to express them publicly. This hesitation is not only due to literacy barriers or lack of access to devices, but also due to social risk.
-Women often want to talk about issues such as domestic violence, caste discrimination, financial struggles and social pressures. However, sharing these experiences openly can lead to stigma or conflict within their families and communities.
+Women often want to talk about their stories, experiences and issues such as domestic violence, caste and gender discrimination. However, sharing these experiences openly can lead to stigma or conflict within their families and communities.
 At the same time, most digital platforms are designed for text-based interaction, making them difficult to use for people who rely more on oral communication. This creates a gap where women have stories to share, but lack safe and accessible ways to do so.
 
 
@@ -23,7 +23,7 @@ We addressed this challenge by combining community spaces, voice-based platforms
 
 ![Demo](/assets/images/radio.jpg)
 
-We set up a digital kiosk with a microphone in a craft centre where women regularly gather. By placing the technology in a familiar environment, we made it easier for women to explore and use it comfortably. They began using the kiosk to record stories, listen to others and access local digital resources.
+We set up a digital kiosk with a microphone in a craft centre where women regularly gather. By placing the technology in a familiar environment, we made it easier for women to explore and use it comfortably. They began using the kiosk to access internet, record stories, listen to others and access local digital resources.
 
 ## Creating a community radio platform
 
@@ -35,7 +35,7 @@ We developed a community radio application that runs locally within a WiFi mesh 
 
 To address concerns around safety and identity, we developed a fully automated, privacy-focused voice anonymization pipeline integrated directly into the community radio system.
 
-Instead of relying on speech-to-text tools such as Whisper, which presented limitations in handling local dialects and required higher computational resources, we shifted to a voice-to-voice conversion approach. Using the Retrieval-based Voice Conversion (RVC) framework, we built a system that transforms voices without converting them into text, allowing us to bypass language constraints and work effectively on low-spec hardware.
+Instead of relying on speech-to-text tools such as Whispering, which presented limitations in handling local dialects and required higher computational resources, we shifted to a voice-to-voice conversion approach. Using the Retrieval-based Voice Conversion (RVC) framework, we built a system that transforms voices without converting them into text, allowing us to bypass language constraints and work effectively on low-spec hardware.
 
 The entire system runs locally on our server, ensuring that no data leaves the community network. When a user uploads an audio recording, it automatically triggers a background anonymization process. The transformed audio is then made available on the community radio platform.
 
