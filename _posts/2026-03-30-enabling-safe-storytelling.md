@@ -4,7 +4,7 @@ title:  "Enabling Safe Storytelling for Rural Women through Voice Anonymity"
 excerpt: "Making storytelling more safer"
 author: Janastu
 featured: true
-image: assets/images/radio.png
+image: /assets/images/radio.png
 toc: false
 comments: true
 tags: people, AI, COWMesh, village, Janastu
@@ -21,13 +21,13 @@ We addressed this challenge by combining community spaces, voice-based platforms
 
 ## Setting up a local digital kiosk
 
-![Demo](assets/images/radio-demo.jpg)
+![Demo](/assets/images/radio-demo.jpg)
 
 We set up a digital kiosk with a microphone in a craft centre where women regularly gather. By placing the technology in a familiar environment, we made it easier for women to explore and use it comfortably. They began using the kiosk to record stories, listen to others and access local digital resources.
 
 ## Creating a community radio platform
 
-![Radio Page](assets/images/Screenshot_20260430_210705.png)
+![Radio Page](/assets/images/Screenshot_20260430_210705.png)
 
 We developed a community radio application that runs locally within a WiFi mesh network. This allows audio content to be shared and accessed without internet connectivity. Women could record and listen to stories within their own community, and group listening became an important part of the experience.
 
