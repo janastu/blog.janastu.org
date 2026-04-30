@@ -9,6 +9,8 @@ toc: false
 comments: true
 tags: people, AI, COWMesh, village, Janastu
 ---
+# Enabling Safe Storytelling for Rural Women through Voice Anonymity
+
 In the rural communities we work with in Karnataka, many women are comfortable sharing their experiences orally, but hesitate to express them publicly. This hesitation is not only due to literacy barriers or lack of access to devices, but also due to social risk.
 Women often want to talk about issues such as domestic violence, caste discrimination, financial struggles and social pressures. However, sharing these experiences openly can lead to stigma or conflict within their families and communities.
 At the same time, most digital platforms are designed for text-based interaction, making them difficult to use for people who rely more on oral communication. This creates a gap where women have stories to share, but lack safe and accessible ways to do so.
