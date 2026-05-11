@@ -56,6 +56,14 @@ Click here to access the ppt [Link](https://files.janastu.org/s/tNLXqj2cQ8oLLDR)
 We have also demonstrated how AI voice conversion converts the original voice into different voices and how animated story looks like.
 Click here to access the demo audio and video content [Link](https://files.janastu.org/s/bpGKc9NLkW2GqWR)
 
+## Understanding feminist vocabularies in local dialects
+
+we conducted discussions and workshops with women to understand the vocabularies and expressions they use while talking about gender, labour, caste and everyday struggles.
+
+These workshops helped us better understand how women articulate issues related to discrimination, care work, mobility, safety and social expectations in their own language practices.
+
+In the long term, this work can contribute towards building small language models and language resources that are more grounded in the lived realities, dialects and communication styles of rural communities rather than depending entirely on standardised or urban-centric datasets.
+
 ## From silence to shared conversations
 
 Many women were initially hesitant to record her voice, as they feared that speaking publicly about her experiences might lead to social consequences. During a demonstration session, they observed how voice anonymity could alter the identity of a recording.
