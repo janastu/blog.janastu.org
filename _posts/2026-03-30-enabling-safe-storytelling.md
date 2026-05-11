@@ -62,9 +62,7 @@ Click here to access the demo audio and video content [Link](https://files.janas
 
 we conducted discussions and workshops with women to understand the vocabularies and expressions they use while talking about gender, caste and everyday struggles.
 
-These workshops helped us better understand how women articulate issues related to discrimination, care work, mobility, safety and social expectations in their own language practices.
-
-In the long term, this work can contribute towards building small language models and language resources that are more grounded in the lived realities, dialects and communication styles of rural communities rather than depending entirely on standardised or urban-centric datasets.
+These workshops help us building feminist vocabularies through workshops on feminist principles and give us an understanding of the epistemic injustice in the rural dialect of the language and then to develop small language models from their stories and vocabularies in future.
 
 ## From silence to shared conversations
 
