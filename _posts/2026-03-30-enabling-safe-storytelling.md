@@ -49,12 +49,12 @@ The presentation also discussed the importance of building locally relevant and 
 
 You can read more about the workshop here:
 
-![Click here to know about workshop](https://llncolab.notion.site/Indigenous-languages-and-Small-Language-Models-Creating-Open-Source-Protocols-for-Community-Toolkit-2edf2a1a5b73801aab03cbd92683da3d)
+[Click here to know about workshop](https://llncolab.notion.site/Indigenous-languages-and-Small-Language-Models-Creating-Open-Source-Protocols-for-Community-Toolkit-2edf2a1a5b73801aab03cbd92683da3d)
 
-Click here to access the ppt ![Link](https://files.janastu.org/s/tNLXqj2cQ8oLLDR)
+Click here to access the ppt [Link](https://files.janastu.org/s/tNLXqj2cQ8oLLDR)
 
 We have also demonstrated how AI voice conversion converts the original voice into different voices and how animated story looks like.
-Click here to access the demo audio and video content ![Link](https://files.janastu.org/s/bpGKc9NLkW2GqWR)
+Click here to access the demo audio and video content [Link](https://files.janastu.org/s/bpGKc9NLkW2GqWR)
 
 ## From silence to shared conversations
 
