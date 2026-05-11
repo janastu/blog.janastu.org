@@ -60,7 +60,7 @@ Click here to access the demo audio and video content [Link](https://files.janas
 
 ## Understanding feminist vocabularies in local dialects
 
-we conducted discussions and workshops with women to understand the vocabularies and expressions they use while talking about gender, labour, caste and everyday struggles.
+we conducted discussions and workshops with women to understand the vocabularies and expressions they use while talking about gender, caste and everyday struggles.
 
 These workshops helped us better understand how women articulate issues related to discrimination, care work, mobility, safety and social expectations in their own language practices.
 
