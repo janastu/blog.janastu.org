@@ -53,7 +53,7 @@ You can read more about the workshop here:
 
 Click here to access the ppt ![Link](https://files.janastu.org/s/tNLXqj2cQ8oLLDR)
 
-We have also demonstrated how AI voice conversion converts the voice into different voices and how animated story looks like.
+We have also demonstrated how AI voice conversion converts the original voice into different voices and how animated story looks like.
 Click here to access the demo audio and video content ![Link](https://files.janastu.org/s/bpGKc9NLkW2GqWR)
 
 ## From silence to shared conversations
