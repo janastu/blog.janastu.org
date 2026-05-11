@@ -41,6 +41,16 @@ The entire system runs locally on our server, ensuring that no data leaves the c
 
 We also used open-source Indian voice models and implemented an interface that allows administrators to upload and manage voice models over time. To improve accessibility, the radio interface was localized with Kannada translations.
 
+## Presenting the work and sharing learnings
+
+we also presented our work at the workshop on Indigenous Languages and Small Language Models: Creating Open Source Protocols for Community Toolkit. The presentation focused on the challenges faced by low-literate rural communities particularly women in accessing digital technologies and how privacy-focused voice technologies can support safer participation and storytelling.
+
+The presentation also discussed the importance of building locally relevant and community-driven AI systems, especially for low aand semi-literate communities that are often excluded from mainstream language technologies.
+
+You can read more about the workshop here:
+
+![Workshop Link](https://llncolab.notion.site/Indigenous-languages-and-Small-Language-Models-Creating-Open-Source-Protocols-for-Community-Toolkit-2edf2a1a5b73801aab03cbd92683da3d)
+
 ## From silence to shared conversations
 
 Many women were initially hesitant to record her voice, as they feared that speaking publicly about her experiences might lead to social consequences. During a demonstration session, they observed how voice anonymity could alter the identity of a recording.
