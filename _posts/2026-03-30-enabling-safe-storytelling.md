@@ -41,6 +41,8 @@ The entire system runs locally on our server, ensuring that no data leaves the c
 
 We also used open-source Indian voice models and implemented an interface that allows administrators to upload and manage voice models over time. To improve accessibility, the radio interface was localized with Kannada translations.
 
+Click to check out voice anonymity code repo: [link](https://gitlab.com/servelots/ai-voice-anonymizer)
+
 ## Presenting the work and sharing learnings
 
 we also presented our work at the workshop on Indigenous Languages and Small Language Models: Creating Open Source Protocols for Community Toolkit. The presentation focused on the challenges faced by low-literate rural communities particularly women in accessing digital technologies and how privacy-focused voice technologies can support safer participation and storytelling.
