@@ -24,6 +24,8 @@ Over the past few months, we've taken the women's handmade products to exhibitio
 
 Our crafts have been well received by visitors to the India Handmade Collective (IHMC), with whom we’ve been actively collaborating. We've sent products to IHMC’s gallery in Hyderabad and Mysuru and participated in their exhibitions in Gujarat, Mysuru, Hyderabad and Bengaluru. We also continue to participate in Ragi Kana, organized by the Gram Seva Sangha, and other *santhe’s* (fairs) around Karnataka.
 
+![At IHMC’s exhibition in Bangalore International Centre, Domlur](/assets/images/ihmcBIC.jpg)
+
 Picture: At IHMC’s exhibition in Bangalore International Centre, Domlur.
 
 Beyond exhibiting their work, the women have been sharing their skills directly with others. At Ambedkar Bhavan's Bodhi Park in Bengaluru, they conducted a workshop teaching participants to weave baskets from *jondu*, the bulrush grass they work with. We also conducted workshops on weaving with jondu as part of IHMC’s eco workshops in Ahmedabad during September.
