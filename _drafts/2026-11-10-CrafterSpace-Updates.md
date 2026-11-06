@@ -82,13 +82,16 @@ Some of the women brought their children, and one even brought her mother along.
 We also celebrated Ayudha Puja, a festival that honours the tools and implements we depend on in our daily lives. The artisans cleaned the entire CrafterSpace and performed puja for their tools, including tailoring machines and weaving implements that are part of their everyday work, creativity, and livelihood. After the puja, we shared a traditional breakfast prepared by our local cook Manjamma, and sweets and clothes were distributed to everyone. 
 
 
-## Community Reading Circles: Stories, Learning and New Voices
+## Community Reading Circles
 
 Since September, we have been holding community reading circles at the start of each workday at CrafterSpace.
 The circles are part of our efforts to support the women's reading and literacy, while also creating opportunities to develop their expression and communicate more confidently with people beyond their villages, including clients. Although the crafters are the main participants, the sessions are open to other women too, and children and visitors often join in.
 The sessions are facilitated by Bhyresh, a recent library science graduate from a nearby village who is passionate about Kannada literature, nature, reading, and local culture.
 
 Together, we read short stories and chapters from non-fiction books. Our current reading has taken us into the fascinating world of forest creatures, including bats and birds.
+
+![Daily Reading Circle](/assets/images/readings.jpg)
+
 
 We record the stories and essays in the participants' own voices. We hope to compile these recordings into an audiobook series that can be enjoyed by others, including people with limited access to written material. Subject to copyright and permissions, we plan to share recordings online and through the local Wi-Fi mesh network.
 
@@ -106,6 +109,10 @@ We set aside 30–40 minutes towards the end of each day to support the women to
 
 
 On 24th October, we welcomed Pooja, a yoga teacher based in Bengaluru, for a special half-day session. Pooja is a frequent visitor to Janastu's IruWay Farm and previously spent time with Janastu as an intern while pursuing her master's in social work.
+
+![Yoga Workshop](/assets/images/yoga.jpg)
+
+
 She guided us through gentle warm-ups, Surya Namaskara, and movements suited to people who spend long hours sitting. She also shared asanas and practical tips relating to health concerns such as thyroid disorders, PCOS/PCOD and diabetes. We ended with a discussion about diet and nutrition.
 
 
