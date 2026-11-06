@@ -42,7 +42,7 @@ In July, we held a workshop facilitated by Aarjav Chauhan to explore how people 
 We sat in a circle and passed a ball of yarn from one person to another, expressing thanks for specific support received over the previous month. As the yarn travelled around the circle, it formed a web of connections, with each strand representing an act of kindness, support, or appreciation.
 
 ![Passing the yarn](/assets/images/Yarn.jpg)
-Photo here
+Passing the yarn
 
 There were many heartwarming moments during the activity. Experienced tailors thanked younger colleagues for helping them decode instructions on using new machines, while weavers expressed gratitude to those who sourced the bulrush grass they work with. Others appreciated the Janastu staff who keep the internet running, which helps the women explore new techniques and ideas available online. The day ended with an impromptu Kannada reading session, with the women sharing short stories and reflecting on them together.
 The workshop served to remind us how everyday acts of support and the knowledge we share bring our community together.
@@ -52,7 +52,9 @@ The workshop served to remind us how everyday acts of support and the knowledge 
 
 On 15 August, we celebrated Independence Day with an interactive discussion led by Shashi about freedom, authority, protest, self-reliance, and equality.
 
-Photo here
+![Passing the yarn](/assets/images/indDay.jpg)
+
+Independence day discussion
 
 We explored horaata (ಹೋರಾಟ) – which translates to roughly protest or struggle – as a way to address injustice and subjugation. We also discussed different kinds of freedom, such as social freedom (ಸಾಮಾಜಿಕ ಸ್ವತಂತ್ರ), financial freedom (ಆರ್ಥಿಕ ಸ್ವಾತಂತ್ರ್ಯ ) and cultural freedom (ಸಾಂಸ್ಕೃತಿಕ ಸ್ವತಂತ್ರ), and reflected on whether we experience these freedoms in our own lives.
 
