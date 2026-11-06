@@ -125,6 +125,12 @@ We thank Pooja for conducting the session and spending time with the artisans.
 CrafterSpace has also welcomed students and craft enthusiasts who want to learn directly from the women.
 In September, around 40 students from KLE Nijalingappa's fashion school visited us for a hands-on weaving session. Over half a day, the women taught them to weave products from jondu. The students brought their curiosity and creativity, and the crafters were delighted to share their knowledge.
 
+![KLE Students at CrafterSpace](/assets/images/KLE.jpg)
+
+![Learning From Artisans](/assets/images/KLE1.jpg)
+
+![The Students' Show their Crafts](/assets/images/KLE2.jpg)
+
 
 In October, Anusha, a fashion technology student, spent several days with us, exploring natural fibres, traditional weaving, and handmade crafts. She reflected on how the visit deepened her appreciation of the patience, creativity, and cultural knowledge behind each creation.
 The women, meanwhile, were impressed by how quickly Anusha picked up some of the weaving techniques!
