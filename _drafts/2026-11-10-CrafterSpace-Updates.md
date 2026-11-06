@@ -106,6 +106,7 @@ We are facilitating these reading circles as part of Voices from the Forest, a p
 
 We have been holding regular gentle yoga practice circles at CrafterSpace since August. The idea for these sessions emerged from conversations with the women, many of whom had expressed interest in practising yoga together. Our engagement with the community has helped us understand the many challenges women face, including the demands of domestic responsibilities, limited opportunities to prioritise their own health, and various forms of social and domestic injustice. Many also experience health concerns such as musculoskeletal pain, fatigue, stress-related digestive problems, and limited mobility.
 We set aside 30–40 minutes towards the end of each day to support the women to slow down and focus on themselves and their own wellbeing before they return to their responsibilities at home. We practise basic warm-ups, gentle yoga asanas, and slow movements, sometimes followed by breathing exercises and simple meditation techniques. The sessions are open to other women in the surrounding villages, and people occasionally drop in to join us.
+![Daily Yoga Practice Circle](/assets/images/yogacircle.jpg)
 
 
 On 24th October, we welcomed Pooja, a yoga teacher based in Bengaluru, for a special half-day session. Pooja is a frequent visitor to Janastu's IruWay Farm and previously spent time with Janastu as an intern while pursuing her master's in social work.
