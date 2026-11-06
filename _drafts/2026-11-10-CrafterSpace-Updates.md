@@ -76,7 +76,7 @@ We were delighted when Roshna, who has previously worked with Janastu and shares
 ![Decorations, Discussions and Sadhya!](/assets/images/onamCollage1.jpg)
 
 Some of the women brought their children, and one even brought her mother along. Roshna and Rumi explained the story behind Onam and why it is celebrated. We played traditional games and enjoyed a delicious Onam sadya—a festive meal featuring an assortment of vegetable dishes, gravies, and payasam. The day ended with small prizes for the winners of the games. It was a lovely time spent together discovering the culture of a neighbouring state, sharing meals and snacks, and enjoying ourselves together. 
-![Onam Games and Prizes](/assets/images/onamCollage2.jpg)
+![Onam Games and Prizes](/assets/images/onameCollage2.jpg)
 
 
 We also celebrated Ayudha Puja, a festival that honours the tools and implements we depend on in our daily lives. The artisans cleaned the entire CrafterSpace and performed puja for their tools, including tailoring machines and weaving implements that are part of their everyday work, creativity, and livelihood. After the puja, we shared a traditional breakfast prepared by our local cook Manjamma, and sweets and clothes were distributed to everyone. 
