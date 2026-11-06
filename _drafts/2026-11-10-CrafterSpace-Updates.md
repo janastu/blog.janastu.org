@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Community, connection and inclusive economic opportunities: A glimpse of recent activities and updates from CrafterSpace"
-excerpt: "The recent months at CrafterSpace have been filled with craft, learning, celebrations, and opportunities to connect with one another. Alongside making products, the women have been exploring new ideas, sharing their skills, reading stories, practising yoga, and taking their crafts to new audiences.
+excerpt: "The recent months at CrafterSpace have been filled with learning, celebrations, and opportunities to connect with one another. Alongside making products, the women have been exploring new ideas, sharing their skills, reading stories, practising yoga, and taking their crafts to new audiences.
 Here's a glimpse of what we've been up to!
 "
 author: Janastu
@@ -14,7 +14,7 @@ tags: people, AI, COWMesh, village, Janastu
 
 # Community, connection and inclusive economic opportunities: A glimpse of recent activities and updates from CrafterSpace
 
-The recent months at CrafterSpace have been filled with craft, learning, celebrations, and opportunities to connect with one another. Alongside making products, the women have been exploring new ideas, sharing their skills, reading stories, practising yoga, and taking their crafts to new audiences.
+The recent months at CrafterSpace have been filled with learning, celebrations, and opportunities to connect with one another. Alongside making products, the women have been exploring new ideas, sharing their skills, reading stories, practising yoga, and taking their crafts to new audiences.
 
 Here's a glimpse of what we've been up to\!
 
