@@ -41,6 +41,7 @@ We're grateful to everyone who has welcomed our products and supported the women
 In July, we held a workshop facilitated by Aarjav Chauhan to explore how people from different backgrounds within Janastu and CrafterSpace could understand one another better and strengthen their relationships.
 We sat in a circle and passed a ball of yarn from one person to another, expressing thanks for specific support received over the previous month. As the yarn travelled around the circle, it formed a web of connections, with each strand representing an act of kindness, support, or appreciation.
 
+![Passing the yarn](/assets/images/Yarn.jpg)
 Photo here
 
 There were many heartwarming moments during the activity. Experienced tailors thanked younger colleagues for helping them decode instructions on using new machines, while weavers expressed gratitude to those who sourced the bulrush grass they work with. Others appreciated the Janastu staff who keep the internet running, which helps the women explore new techniques and ideas available online. The day ended with an impromptu Kannada reading session, with the women sharing short stories and reflecting on them together.
