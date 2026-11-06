@@ -52,7 +52,7 @@ The workshop served to remind us how everyday acts of support and the knowledge 
 
 On 15 August, we celebrated Independence Day with an interactive discussion led by Shashi about freedom, authority, protest, self-reliance, and equality.
 
-![Passing the yarn](/assets/images/indDay.jpg)
+![Discussion and Movement Games](/assets/images/indDay.jpg)
 
 Independence day discussion
 
@@ -73,7 +73,11 @@ Festivals are an important part of life at CrafterSpace. They give us opportunit
 At CrafterSpace, we typically celebrate the local Varamahalakshmi festival. However, two of our crafters lost their husbands earlier this year, and we chose not to hold certain traditional festivities this year out of respect for their grief. Instead, we celebrated Onam, the festival from neighbouring Kerala, instead of our usual Varmahalakshmi Puja celebration.
 We were delighted when Roshna, who has previously worked with Janastu and shares a close bond with the women, came down from Kerala to organise the celebration. She brought along her friend Rumi, and together they introduced us to the festival and helped lead the preparations. The work began the previous day, with our artisans decorating the gazebo and preparing the space. 
 
+![Decorations, Discussions and Sadhya!](/assets/images/onamCollage1.jpg)
+
 Some of the women brought their children, and one even brought her mother along. Roshna and Rumi explained the story behind Onam and why it is celebrated. We played traditional games and enjoyed a delicious Onam sadya—a festive meal featuring an assortment of vegetable dishes, gravies, and payasam. The day ended with small prizes for the winners of the games. It was a lovely time spent together discovering the culture of a neighbouring state, sharing meals and snacks, and enjoying ourselves together. 
+![Onam Games and Prizes](/assets/images/onamCollage2.jpg)
+
 
 We also celebrated Ayudha Puja, a festival that honours the tools and implements we depend on in our daily lives. The artisans cleaned the entire CrafterSpace and performed puja for their tools, including tailoring machines and weaving implements that are part of their everyday work, creativity, and livelihood. After the puja, we shared a traditional breakfast prepared by our local cook Manjamma, and sweets and clothes were distributed to everyone. 
 
