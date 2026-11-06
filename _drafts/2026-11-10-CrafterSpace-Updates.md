@@ -145,6 +145,8 @@ At CrafterSpace, we want to create opportunities for people from the surrounding
 One particularly heartening development has been the contribution of Shivanna, the husband of our beloved crafter Kusuma. After an injury left him paralyzed, Kusuma had been the sole breadwinner for their family. Not somebody to stay idle, Shivanna began exploring his creative side with drawings and embroidery and began to make beautiful embroidered designs. We were deeply touched by his skill, resilience and creativity. 
 Although CrafterSpace is a women's space, we're happy to welcome Shivanna as an additional contributor. We're glad that this engagement with CrafterSpace allows him to use his creativity and passion while supporting his family too.
 
+![Shivanna and his craft](/assets/images/shivanna.jpg)
+
 
 During the children's Navratri holidays in October, we also welcomed children to CrafterSpace to learn and make crafts, including handmade earrings. Some of their creations will be sold alongside our other products, with the children receiving a fair share of the earnings.
 
