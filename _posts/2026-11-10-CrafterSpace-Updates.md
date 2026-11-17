@@ -2,7 +2,7 @@
 layout: post
 title:  "Community, connection and inclusive economic opportunities"
 excerpt: "A glimpse of recent activities and updates from CrafterSpace"
-author: CrafterSpace
+author: janastu
 featured: true
 image: https://blog.janastu.org/assets/images/yogaCover.jpg
 toc: false
