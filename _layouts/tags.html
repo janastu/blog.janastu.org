@@ -15,52 +15,62 @@ layout: default
   <span id="no-results-msg" class="ml-3 text-muted" style="display: none;"></span>
 </div>
 
-<div class="row listrecent">
+<div class="row listrecent" id="tags-container">
   {% for tag in site.tags %}
-    {% assign clean_name = tag.first | remove: ',' | strip %}
+    {% assign raw_tag_name = tag[0] %}
+    {% assign clean_name = raw_tag_name | remove: ',' | strip %}
     {% assign tag_slug = clean_name | slugify %}
-    
-    <div class="tag-group col-md-12 p-0" data-tag="{{ tag_slug }}" data-raw-tag="{{ clean_name | downcase }}">
-      <div class="row mx-0">
-        <div class="section-title col-md-12 mt-4">
-          <h2 id="{{ tag_slug }}">Tag <span class="text-capitalize">{{ clean_name }}</span></h2>
-        </div>
 
-        {% assign pages_list = tag.last %}
-        {% for post in pages_list %}
-          {% if post.title != null %}
-            {% if group == null or group == post.group %}
-              {% include postbox.html %}
-            {% endif %}
-          {% endif %}
-        {% endfor %}
-        {% assign pages_list = nil %}
-        {% assign group = nil %}
-      </div>
+    <!-- Heading marker with data-tag -->
+    <div class="section-title col-md-12 mt-4 tag-section-heading" data-tag="{{ tag_slug }}" data-raw-tag="{{ clean_name | downcase }}">
+      <h2 id="{{ tag_slug }}">Tag <span class="text-capitalize">{{ clean_name }}</span></h2>
     </div>
 
+    {% assign pages_list = tag[1] %}
+    {% for post in pages_list %}
+      {% if post.title != null %}
+        {% if group == null or group == post.group %}
+          {% include postbox.html %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    {% assign pages_list = nil %}
+    {% assign group = nil %}
   {% endfor %}
 </div>
 
 <script>
   function filterByTag(selectedTag) {
     const cleanTag = decodeURIComponent(selectedTag).replace(/,/g, '').toLowerCase().trim();
-    const groups = document.querySelectorAll('.tag-group');
+    const container = document.getElementById('tags-container');
     const controls = document.getElementById('filter-controls');
     const noResults = document.getElementById('no-results-msg');
 
     controls.style.display = cleanTag ? 'block' : 'none';
     let matchCount = 0;
+    let keepCurrentSection = !cleanTag;
 
-    groups.forEach(group => {
-      const groupSlug = group.getAttribute('data-tag');
-      const groupRaw = group.getAttribute('data-raw-tag');
+    // Walk through every child inside #tags-container in order
+    Array.from(container.children).forEach(el => {
+      if (el.classList.contains('tag-section-heading')) {
+        const headingSlug = (el.getAttribute('data-tag') || '').trim();
+        const headingRaw = (el.getAttribute('data-raw-tag') || '').trim();
 
-      if (!cleanTag || groupSlug === cleanTag || groupRaw === cleanTag) {
-        group.classList.remove('tag-hidden');
-        matchCount++;
+        if (!cleanTag || headingSlug === cleanTag || headingRaw === cleanTag) {
+          keepCurrentSection = true;
+          el.classList.remove('tag-hidden');
+          matchCount++;
+        } else {
+          keepCurrentSection = false;
+          el.classList.add('tag-hidden');
+        }
       } else {
-        group.classList.add('tag-hidden');
+        // Every post card following a heading inherits that heading's visibility
+        if (keepCurrentSection) {
+          el.classList.remove('tag-hidden');
+        } else {
+          el.classList.add('tag-hidden');
+        }
       }
     });
 
