@@ -10,6 +10,16 @@ permalink: "/tags.html"
   }
 </style>
 
+<div class="mb-4" id="f---
+layout: default
+---
+
+<style>
+  .tag-hidden {
+    display: none !important;
+  }
+</style>
+
 <div class="mb-4" id="filter-controls" style="display: none;">
   <button class="btn btn-sm btn-outline-secondary" onclick="filterByTag('')">
     &larr; Show All Tags
@@ -18,7 +28,7 @@ permalink: "/tags.html"
 
 <div class="row listrecent">
   {% for tag in site.tags %}
-    {% assign tag_name = tag[0] %}
+    {% assign tag_name = tag.first %}
     {% assign tag_slug = tag_name | slugify %}
     
     <div class="tag-group col-md-12 p-0" data-tag="{{ tag_slug }}" data-raw-tag="{{ tag_name | downcase }}">
@@ -27,7 +37,7 @@ permalink: "/tags.html"
           <h2 id="{{ tag_name | replace: ' ','-' }}">Tag <span class="text-capitalize">{{ tag_name }}</span></h2>
         </div>
 
-        {% assign pages_list = tag[1] %}
+        {% assign pages_list = tag.last %}
         {% for post in pages_list %}
           {% if post.title != null %}
             {% if group == null or group == post.group %}
@@ -45,7 +55,7 @@ permalink: "/tags.html"
 
 <script>
   function filterByTag(selectedTag) {
-    const cleanTag = selectedTag.toLowerCase().trim();
+    const cleanTag = decodeURIComponent(selectedTag).toLowerCase().trim();
     const groups = document.querySelectorAll('.tag-group');
     const controls = document.getElementById('filter-controls');
 
@@ -67,7 +77,6 @@ permalink: "/tags.html"
     }
   }
 
-  // Run immediately as well as on DOMContentLoaded
   const initialTag = new URLSearchParams(window.location.search).get('tag');
   if (initialTag) {
     filterByTag(initialTag);
