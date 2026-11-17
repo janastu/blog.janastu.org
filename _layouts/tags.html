@@ -2,100 +2,23 @@
 layout: default
 ---
 
-<style>
-  .tag-hidden {
-    display: none !important;
-  }
-</style>
-
-<div class="mb-4" id="filter-controls" style="display: none;">
-  <button class="btn btn-sm btn-outline-secondary" onclick="filterByTag('')">
-    &larr; Show All Tags
-  </button>
-  <span id="no-results-msg" class="ml-3 text-muted" style="display: none;"></span>
+<div class="row listrecent">
+{% for tag in site.tags %}
+<div class="section-title col-md-12 mt-4">
+<h2 id="{{ tag[0] | replace: " ","-" }}">Tag <span class="text-capitalize">{{ tag[0] }}</span></h2>
 </div>
-
-<div class="row listrecent" id="tags-container">
-  {% for tag in site.tags %}
-    {% assign raw_tag_name = tag %}
-    {% assign clean_name = raw_tag_name | remove: ',' | strip %}
-    {% assign tag_slug = clean_name | slugify %}
-
-    <div class="section-title col-md-12 mt-4 tag-section-heading" data-tag="{{ tag_slug }}" data-raw-tag="{{ clean_name | downcase }}">
-      <h2 id="{{ tag_slug }}">Tag <span class="text-capitalize">{{ clean_name }}</span></h2>
-    </div>
-
-    {% assign pages_list = tag %}
-    {% for post in pages_list %}
-      {% if post.title != null %}
-        {% if group == null or group == post.group %}
-          {% include postbox.html %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-    {% assign pages_list = nil %}
-    {% assign group = nil %}
-  {% endfor %}
+{% assign pages_list = tag[1] %}
+{% for post in pages_list %}
+{% if post.title != null %}
+{% if group == null or group == post.group %}
+{% include postbox.html %}
+{% endif %}
+{% endif %}
+{% endfor %}
+{% assign pages_list = nil %}
+{% assign group = nil %}
+{% endfor %}
 </div>
-
-<script>
-  function filterByTag(selectedTag) {
-    const cleanTag = decodeURIComponent(selectedTag).replace(/,/g, '').toLowerCase().trim();
-    const controls = document.getElementById('filter-controls');
-    const noResults = document.getElementById('no-results-msg');
-
-    controls.style.display = cleanTag ? 'block' : 'none';
-    let matchCount = 0;
-
-    // Grab all tag headings and all post cards anywhere inside the main content area
-    const mainArea = document.querySelector('.main-content') || document.querySelector('main') || document.body;
-    const allItems = mainArea.querySelectorAll('.tag-section-heading, .grid-item, .card-group, .col-lg-4.col-md-6');
-
-    let keepCurrentSection = !cleanTag;
-
-    allItems.forEach(el => {
-      if (el.classList.contains('tag-section-heading')) {
-        const headingSlug = (el.getAttribute('data-tag') || '').trim();
-        const headingRaw = (el.getAttribute('data-raw-tag') || '').trim();
-
-        if (!cleanTag || headingSlug === cleanTag || headingRaw === cleanTag) {
-          keepCurrentSection = true;
-          el.classList.remove('tag-hidden');
-          matchCount++;
-        } else {
-          keepCurrentSection = false;
-          el.classList.add('tag-hidden');
-        }
-      } else {
-        // Hide or show every post card based on the most recent tag heading above it
-        if (keepCurrentSection) {
-          el.classList.remove('tag-hidden');
-        } else {
-          el.classList.add('tag-hidden');
-        }
-      }
-    });
-
-    if (cleanTag && matchCount === 0) {
-      noResults.textContent = `No posts found with tag "${selectedTag}".`;
-      noResults.style.display = 'inline';
-    } else {
-      noResults.style.display = 'none';
-    }
-
-    if (!cleanTag && window.location.search) {
-      window.history.replaceState({}, '', window.location.pathname);
-    }
-  }
-
-  // Run after full page load so all cards exist in the DOM
-  window.addEventListener('load', () => {
-    const tagParam = new URLSearchParams(window.location.search).get('tag');
-    if (tagParam) {
-      filterByTag(tagParam);
-    }
-  });
-</script>
 
 
 <!--
