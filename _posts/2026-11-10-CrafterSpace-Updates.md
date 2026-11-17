@@ -7,7 +7,7 @@ featured: true
 image: https://blog.janastu.org/assets/images/yogaCover.jpg
 toc: false
 comments: true
-tags: CrafterSpace, village, festivals, crafts, livelihood 
+tags: [CrafterSpace, village, festivals, crafts, livelihood]
 ---
 
 # Community, connection and inclusive economic opportunities: A glimpse of recent activities and updates from CrafterSpace
