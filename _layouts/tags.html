@@ -3,9 +3,7 @@ layout: default
 ---
 
 <style>
-  .tag-hidden {
-    display: none !important;
-  }
+  .tag-hidden { display: none !important; }
 </style>
 
 <div class="mb-4" id="filter-controls" style="display: none;">
@@ -15,76 +13,64 @@ layout: default
   <span id="no-results-msg" class="ml-3 text-muted" style="display: none;"></span>
 </div>
 
-<div class="row listrecent" id="tags-list">
+<div id="tags-list">
 {% for tag in site.tags %}
-<div class="section-title col-md-12 mt-4">
-<h2 id="{{ tag[0] | replace: " ","-" }}">Tag <span class="text-capitalize">{{ tag[0] }}</span></h2>
-</div>
-{% assign pages_list = tag[1] %}
-{% for post in pages_list %}
-{% if post.title != null %}
-{% if group == null or group == post.group %}
-{% include postbox.html %}
-{% endif %}
-{% endif %}
-{% endfor %}
-{% assign pages_list = nil %}
-{% assign group = nil %}
+  <div class="tag-group" data-tag="{{ tag[0] }}">
+    <div class="row listrecent">
+      <div class="section-title col-md-12 mt-4">
+        <h2 id="{{ tag[0] | replace: ' ', '-' }}">Tag <span class="text-capitalize">{{ tag[0] }}</span></h2>
+      </div>
+      {% for post in tag[1] %}
+        {% if post.title != null %}
+          {% include postbox.html %}
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
 {% endfor %}
 </div>
 
 <script>
+  function normalize(s) {
+    var v = s || '';
+    try { v = decodeURIComponent(v); } catch (e) {}
+    return v.replace(/[-,]/g, ' ').replace(/\s+/g, ' ').toLowerCase().trim();
+  }
+
   function filterByTag(selectedTag) {
-    const cleanTag = decodeURIComponent(selectedTag).replace(/,/g, '').toLowerCase().trim();
-    const container = document.getElementById('tags-list');
-    const controls = document.getElementById('filter-controls');
-    const noResults = document.getElementById('no-results-msg');
+    var cleanTag = normalize(selectedTag);
+    var groups = document.querySelectorAll('#tags-list .tag-group');
+    var matchCount = 0;
 
-    controls.style.display = cleanTag ? 'block' : 'none';
-    let matchCount = 0;
-    let showCards = !cleanTag;
-
-    Array.from(container.children).forEach(child => {
-      if (child.classList.contains('section-title')) {
-        // Read the tag name directly from the <span> inside <h2>Tag <span>...</span></h2>
-        const span = child.querySelector('h2 span');
-        const tagText = (span ? span.textContent : '').replace(/,/g, '').toLowerCase().trim();
-
-        if (!cleanTag || tagText === cleanTag) {
-          showCards = true;
-          child.classList.remove('tag-hidden');
-          matchCount++;
-        } else {
-          showCards = false;
-          child.classList.add('tag-hidden');
-        }
-      } else if (child.classList.contains('card-group')) {
-        if (showCards) {
-          child.classList.remove('tag-hidden');
-        } else {
-          child.classList.add('tag-hidden');
-        }
-      }
+    groups.forEach(function (g) {
+      var match = !cleanTag || normalize(g.getAttribute('data-tag')) === cleanTag;
+      g.classList.toggle('tag-hidden', !match);
+      if (match) matchCount++;
     });
 
+    document.getElementById('filter-controls').style.display = cleanTag ? 'block' : 'none';
+
+    var msg = document.getElementById('no-results-msg');
     if (cleanTag && matchCount === 0) {
-      noResults.textContent = `No posts found with tag "${selectedTag}".`;
-      noResults.style.display = 'inline';
+      msg.textContent = 'No posts found with tag "' + selectedTag + '".';
+      msg.style.display = 'inline';
     } else {
-      noResults.style.display = 'none';
+      msg.style.display = 'none';
     }
 
-    if (!cleanTag && window.location.search) {
+    if (!cleanTag && (window.location.search || window.location.hash)) {
       window.history.replaceState({}, '', window.location.pathname);
     }
   }
 
-  document.addEventListener('DOMContentLoaded', () => {
-    const tagParam = new URLSearchParams(window.location.search).get('tag');
-    if (tagParam) {
-      filterByTag(tagParam);
-    }
-  });
+  function applyFromUrl() {
+    var params = new URLSearchParams(window.location.search);
+    var tag = params.get('tag') || window.location.hash.replace(/^#/, '');
+    filterByTag(tag);
+  }
+
+  document.addEventListener('DOMContentLoaded', applyFromUrl);
+  window.addEventListener('hashchange', applyFromUrl);
 </script>
 
 
