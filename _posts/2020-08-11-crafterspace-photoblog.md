@@ -8,7 +8,7 @@ featured: true
 image: https://i.imgur.com/ZgPnKux.jpg
 toc: false
 comments: false
-tags: CrafterSpace
+tags: [CrafterSpace]
 ---
 
 # CrafterSpace: Photo Blog
