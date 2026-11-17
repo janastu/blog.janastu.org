@@ -4,12 +4,12 @@ title:  "Community, connection and inclusive economic opportunities: A glimpse o
 excerpt: "The recent months at CrafterSpace have been filled with learning, celebrations, and opportunities to connect with one another. Alongside making products, the women have been exploring new ideas, sharing their skills, reading stories, practising yoga, and taking their crafts to new audiences.
 Here's a glimpse of what we've been up to!
 "
-author: Janastu
+author: janastu
 featured: true
 image: /assets/images/radio-demo.jpg
 toc: false
 comments: true
-tags: people, AI, COWMesh, village, Janastu
+tags: CrafterSpace, village, festivals, crafts, livelihood 
 ---
 
 # Community, connection and inclusive economic opportunities: A glimpse of recent activities and updates from CrafterSpace
