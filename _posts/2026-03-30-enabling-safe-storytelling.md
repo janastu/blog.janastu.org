@@ -4,7 +4,7 @@ title:  "Enabling Safe Storytelling for Rural Women through Voice Anonymity"
 excerpt: "Making storytelling safer"
 author: Janastu
 featured: true
-image: /assets/images/radio-demo.jpg
+image: https://blog.janastu.org/assets/images/radio-demo.jpg
 toc: false
 comments: true
 tags: [people, AI, COWMesh, village, Janastu, CrafterSpace]
