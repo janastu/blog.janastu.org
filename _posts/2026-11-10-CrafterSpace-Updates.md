@@ -30,7 +30,6 @@ Picture: At IHMC’s exhibition in Bangalore International Centre, Domlur.
 
 Beyond exhibiting their work, the women have been sharing their skills directly with others. At Ambedkar Bhavan's Bodhi Park in Bengaluru, they conducted a workshop teaching participants to weave baskets from *jondu*, the bulrush grass they work with. We also conducted workshops on weaving with jondu as part of IHMC’s eco workshops in Ahmedabad during September.
 
-\<Add photos here from workshops\> 
 
 Each product takes time, effort, and skill to make. The women look forward to seeing their work displayed at exhibitions and are delighted when their creations find buyers. These opportunities help their work reach new audiences while giving greater visibility to the knowledge and craftsmanship they bring to it.
 
@@ -42,7 +41,7 @@ In July, we held a workshop facilitated by Aarjav Chauhan to explore how people 
 We sat in a circle and passed a ball of yarn from one person to another, expressing thanks for specific support received over the previous month. As the yarn travelled around the circle, it formed a web of connections, with each strand representing an act of kindness, support, or appreciation.
 
 ![Passing the yarn](/assets/images/Yarn.jpg)
-Passing the yarn
+Photo of people sitting in a circle passing a yarn around to create a web
 
 There were many heartwarming moments during the activity. Experienced tailors thanked younger colleagues for helping them decode instructions on using new machines, while weavers expressed gratitude to those who sourced the bulrush grass they work with. Others appreciated the Janastu staff who keep the internet running, which helps the women explore new techniques and ideas available online. The day ended with an impromptu Kannada reading session, with the women sharing short stories and reflecting on them together.
 The workshop served to remind us how everyday acts of support and the knowledge we share bring our community together.
@@ -54,15 +53,13 @@ On 15 August, we celebrated Independence Day with an interactive discussion led 
 
 ![Discussion and Movement Games](/assets/images/indDay.jpg)
 
-Independence day discussion
+Photo collage: People seated in discussion (left and bottom) and playing a game (top right) 
 
 We explored horaata (ಹೋರಾಟ) – which translates to roughly protest or struggle – as a way to address injustice and subjugation. We also discussed different kinds of freedom, such as social freedom (ಸಾಮಾಜಿಕ ಸ್ವತಂತ್ರ), financial freedom (ಆರ್ಥಿಕ ಸ್ವಾತಂತ್ರ್ಯ ) and cultural freedom (ಸಾಂಸ್ಕೃತಿಕ ಸ್ವತಂತ್ರ), and reflected on whether we experience these freedoms in our own lives.
 
-Insert a video clip here
 
 The discussion led us to the conclusion that a country can be truly free only when its citizens are free, and this requires authority to be shared equally by citizens rather than concentrated in the hands of a few.
 
-Photo Here
 
 After being seated for nearly an hour in discussion, we played some movement-based games to conclude the independence day celebrations.
 
@@ -74,10 +71,11 @@ At CrafterSpace, we typically celebrate the local Varamahalakshmi festival. Howe
 We were delighted when Roshna, who has previously worked with Janastu and shares a close bond with the women, came down from Kerala to organise the celebration. She brought along her friend Rumi, and together they introduced us to the festival and helped lead the preparations. The work began the previous day, with our artisans decorating the gazebo and preparing the space. 
 
 ![Decorations, Discussions and Sadhya!](/assets/images/onamCollage1.jpg)
+Photo collage: Decorations, food on banana leaf, and people celebrating Onam
 
 Some of the women brought their children, and one even brought her mother along. Roshna and Rumi explained the story behind Onam and why it is celebrated. We played traditional games and enjoyed a delicious Onam sadya—a festive meal featuring an assortment of vegetable dishes, gravies, and payasam. The day ended with small prizes for the winners of the games. It was a lovely time spent together discovering the culture of a neighbouring state, sharing meals and snacks, and enjoying ourselves together. 
 ![Onam Games and Prizes](/assets/images/onameCollage2.jpg)
-
+Photo Collage: People posing for photographs and playing Onam games
 
 We also celebrated Ayudha Puja, a festival that honours the tools and implements we depend on in our daily lives. The artisans cleaned the entire CrafterSpace and performed puja for their tools, including tailoring machines and weaving implements that are part of their everyday work, creativity, and livelihood. After the puja, we shared a traditional breakfast prepared by our local cook Manjamma, and sweets and clothes were distributed to everyone. 
 
@@ -91,7 +89,7 @@ The sessions are facilitated by Bhyresh, a recent library science graduate from 
 Together, we read short stories and chapters from non-fiction books. Our current reading has taken us into the fascinating world of forest creatures, including bats and birds.
 
 ![Daily Reading Circle](/assets/images/readings.jpg)
-
+Photo of people seated in a reading a book
 
 We record the stories and essays in the participants' own voices. We hope to compile these recordings into an audiobook series that can be enjoyed by others, including people with limited access to written material. Subject to copyright and permissions, we plan to share recordings online and through the local Wi-Fi mesh network.
 
@@ -107,12 +105,12 @@ We are facilitating these reading circles as part of Voices from the Forest, a p
 We have been holding regular gentle yoga practice circles at CrafterSpace since August. The idea for these sessions emerged from conversations with the women, many of whom had expressed interest in practising yoga together. Our engagement with the community has helped us understand the many challenges women face, including the demands of domestic responsibilities, limited opportunities to prioritise their own health, and various forms of social and domestic injustice. Many also experience health concerns such as musculoskeletal pain, fatigue, stress-related digestive problems, and limited mobility.
 We set aside 30–40 minutes towards the end of each day to support the women to slow down and focus on themselves and their own wellbeing before they return to their responsibilities at home. We practise basic warm-ups, gentle yoga asanas, and slow movements, sometimes followed by breathing exercises and simple meditation techniques. The sessions are open to other women in the surrounding villages, and people occasionally drop in to join us.
 ![Daily Yoga Practice Circle](/assets/images/yogacircle.jpg)
-
+Photo of people practising yoga seated in a circle
 
 On 24th October, we welcomed Pooja, a yoga teacher based in Bengaluru, for a special half-day session. Pooja is a frequent visitor to Janastu's IruWay Farm and previously spent time with Janastu as an intern while pursuing her master's in social work.
 
 ![Yoga Workshop](/assets/images/yoga.jpg)
-
+Collage of people practising yoga
 
 She guided us through gentle warm-ups, Surya Namaskara, and movements suited to people who spend long hours sitting. She also shared asanas and practical tips relating to health concerns such as thyroid disorders, PCOS/PCOD and diabetes. We ended with a discussion about diet and nutrition.
 
@@ -130,7 +128,7 @@ In September, around 40 students from KLE Nijalingappa's fashion school visited 
 ![Learning From Artisans](/assets/images/KLE1.jpg)
 
 ![The Students' Show their Crafts](/assets/images/KLE2.jpg)
-
+Photos of students at CrafterSpace learning from artisans and showing their finished crafts
 
 In October, Anusha, a fashion technology student, spent several days with us, exploring natural fibres, traditional weaving, and handmade crafts. She reflected on how the visit deepened her appreciation of the patience, creativity, and cultural knowledge behind each creation.
 The women, meanwhile, were impressed by how quickly Anusha picked up some of the weaving techniques!
@@ -146,7 +144,7 @@ One particularly heartening development has been the contribution of Shivanna, t
 Although CrafterSpace is a women's space, we're happy to welcome Shivanna as an additional contributor. We're glad that this engagement with CrafterSpace allows him to use his creativity and passion while supporting his family too.
 
 ![Shivanna and his craft](/assets/images/shivanna.jpg)
-
+Photo collage of Shivanna and his embroideries
 
 During the children's Navratri holidays in October, we also welcomed children to CrafterSpace to learn and make crafts, including handmade earrings. Some of their creations will be sold alongside our other products, with the children receiving a fair share of the earnings.
 
