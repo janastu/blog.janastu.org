@@ -7,7 +7,7 @@ featured: true
 image: https://i.imgur.com/WVTtLNz.jpeg
 toc: false
 comments: true
-tags: people, AI, COWMesh, village, Janastu, CrafterSpace
+tags: [people, AI, COWMesh, village, Janastu, CrafterSpace]
 ---
 
 # AI in Rural India: A Dream or a Distant Reality?
