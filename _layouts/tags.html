@@ -17,16 +17,15 @@ layout: default
 
 <div class="row listrecent" id="tags-container">
   {% for tag in site.tags %}
-    {% assign raw_tag_name = tag[0] %}
+    {% assign raw_tag_name = tag %}
     {% assign clean_name = raw_tag_name | remove: ',' | strip %}
     {% assign tag_slug = clean_name | slugify %}
 
-    <!-- Heading marker with data-tag -->
     <div class="section-title col-md-12 mt-4 tag-section-heading" data-tag="{{ tag_slug }}" data-raw-tag="{{ clean_name | downcase }}">
       <h2 id="{{ tag_slug }}">Tag <span class="text-capitalize">{{ clean_name }}</span></h2>
     </div>
 
-    {% assign pages_list = tag[1] %}
+    {% assign pages_list = tag %}
     {% for post in pages_list %}
       {% if post.title != null %}
         {% if group == null or group == post.group %}
@@ -42,16 +41,19 @@ layout: default
 <script>
   function filterByTag(selectedTag) {
     const cleanTag = decodeURIComponent(selectedTag).replace(/,/g, '').toLowerCase().trim();
-    const container = document.getElementById('tags-container');
     const controls = document.getElementById('filter-controls');
     const noResults = document.getElementById('no-results-msg');
 
     controls.style.display = cleanTag ? 'block' : 'none';
     let matchCount = 0;
+
+    // Grab all tag headings and all post cards anywhere inside the main content area
+    const mainArea = document.querySelector('.main-content') || document.querySelector('main') || document.body;
+    const allItems = mainArea.querySelectorAll('.tag-section-heading, .grid-item, .card-group, .col-lg-4.col-md-6');
+
     let keepCurrentSection = !cleanTag;
 
-    // Walk through every child inside #tags-container in order
-    Array.from(container.children).forEach(el => {
+    allItems.forEach(el => {
       if (el.classList.contains('tag-section-heading')) {
         const headingSlug = (el.getAttribute('data-tag') || '').trim();
         const headingRaw = (el.getAttribute('data-raw-tag') || '').trim();
@@ -65,7 +67,7 @@ layout: default
           el.classList.add('tag-hidden');
         }
       } else {
-        // Every post card following a heading inherits that heading's visibility
+        // Hide or show every post card based on the most recent tag heading above it
         if (keepCurrentSection) {
           el.classList.remove('tag-hidden');
         } else {
@@ -86,7 +88,8 @@ layout: default
     }
   }
 
-  document.addEventListener('DOMContentLoaded', () => {
+  // Run after full page load so all cards exist in the DOM
+  window.addEventListener('load', () => {
     const tagParam = new URLSearchParams(window.location.search).get('tag');
     if (tagParam) {
       filterByTag(tagParam);
