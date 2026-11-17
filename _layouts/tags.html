@@ -2,7 +2,20 @@
 layout: default
 ---
 
-<div class="row listrecent">
+<style>
+  .tag-hidden {
+    display: none !important;
+  }
+</style>
+
+<div class="mb-4" id="filter-controls" style="display: none;">
+  <button class="btn btn-sm btn-outline-secondary" onclick="filterByTag('')">
+    &larr; Show All Tags
+  </button>
+  <span id="no-results-msg" class="ml-3 text-muted" style="display: none;"></span>
+</div>
+
+<div class="row listrecent" id="tags-list">
 {% for tag in site.tags %}
 <div class="section-title col-md-12 mt-4">
 <h2 id="{{ tag[0] | replace: " ","-" }}">Tag <span class="text-capitalize">{{ tag[0] }}</span></h2>
@@ -19,6 +32,60 @@ layout: default
 {% assign group = nil %}
 {% endfor %}
 </div>
+
+<script>
+  function filterByTag(selectedTag) {
+    const cleanTag = decodeURIComponent(selectedTag).replace(/,/g, '').toLowerCase().trim();
+    const container = document.getElementById('tags-list');
+    const controls = document.getElementById('filter-controls');
+    const noResults = document.getElementById('no-results-msg');
+
+    controls.style.display = cleanTag ? 'block' : 'none';
+    let matchCount = 0;
+    let showCards = !cleanTag;
+
+    Array.from(container.children).forEach(child => {
+      if (child.classList.contains('section-title')) {
+        // Read the tag name directly from the <span> inside <h2>Tag <span>...</span></h2>
+        const span = child.querySelector('h2 span');
+        const tagText = (span ? span.textContent : '').replace(/,/g, '').toLowerCase().trim();
+
+        if (!cleanTag || tagText === cleanTag) {
+          showCards = true;
+          child.classList.remove('tag-hidden');
+          matchCount++;
+        } else {
+          showCards = false;
+          child.classList.add('tag-hidden');
+        }
+      } else if (child.classList.contains('card-group')) {
+        if (showCards) {
+          child.classList.remove('tag-hidden');
+        } else {
+          child.classList.add('tag-hidden');
+        }
+      }
+    });
+
+    if (cleanTag && matchCount === 0) {
+      noResults.textContent = `No posts found with tag "${selectedTag}".`;
+      noResults.style.display = 'inline';
+    } else {
+      noResults.style.display = 'none';
+    }
+
+    if (!cleanTag && window.location.search) {
+      window.history.replaceState({}, '', window.location.pathname);
+    }
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    const tagParam = new URLSearchParams(window.location.search).get('tag');
+    if (tagParam) {
+      filterByTag(tagParam);
+    }
+  });
+</script>
 
 
 <!--
