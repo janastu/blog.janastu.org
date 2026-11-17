@@ -4,7 +4,7 @@ title:  "Community, connection and inclusive economic opportunities"
 excerpt: "A glimpse of recent activities and updates from CrafterSpace"
 author: CrafterSpace
 featured: true
-image: /assets/images/yogaCover.jpg
+image: https://blog.janastu.org/assets/images/yogaCover.jpg
 toc: false
 comments: true
 tags: CrafterSpace, village, festivals, crafts, livelihood 
