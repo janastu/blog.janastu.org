@@ -64,8 +64,9 @@ After being seated for nearly an hour in discussion, we played some movement-bas
 
 ## Cultural Exchange and Festivals 
 
-Festivals are an important part of life at CrafterSpace. They give us opportunities to come together, bond, and explore our creativity in ways that are not restricted to making products.
-At CrafterSpace, we typically celebrate the local Varamahalakshmi festival. However, two of our members lost their husbands earlier this year, and we chose not to hold certain traditional festivities this year as a gesture of respect. Instead, we celebrated Onam, the festival from neighbouring Kerala, instead of our usual Varmahalakshmi Puja celebration.
+Festivals give us opportunities to come together, bond, and explore our creativity in ways that are not restricted to making products. At CrafterSpace, we typically celebrate the local Varamahalakshmi festival. However, two of our members lost their husbands earlier this year, and we chose not to hold certain traditional festivities this year as a gesture of respect. Instead, we celebrated Onam, the festival from neighbouring Kerala.
+
+
 We were delighted when Roshna, who has previously worked with Janastu and shares a close bond with the women, came from Kerala to organise the celebration. She brought along her friend Rumi, and together they introduced us to the festival and helped lead the preparations. The work began the previous day, with our artisans decorating the gazebo and preparing the space. 
 
 ![Decorations, Discussions and Sadhya!](/assets/images/onamCollage1.jpg)
