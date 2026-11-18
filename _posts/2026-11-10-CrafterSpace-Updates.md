@@ -26,7 +26,7 @@ Our crafts have been well received by visitors to the India Handmade Collective 
 
 Photo: At IHMC’s exhibition in Bangalore International Centre, Domlur.
 
-Beyond exhibiting their work, the women have been sharing their skills directly with others. At Ambedkar Bhavan's Bodhi Park in Bengaluru, they conducted a workshop teaching participants to weave baskets from *jondu*, the bulrush grass they work with. We also conducted workshops on weaving with jondu as part of IHMC’s eco workshops in Ahmedabad during September.
+Beyond exhibiting their work, the women have also been sharing their skills with others. They conducted a workshop in Spoorthi Dhama (Bangalore) teaching participants to weave baskets from *jondu* (bulrush grass). We also conducted workshops on weaving with jondu as part of IHMC’s eco workshops in Ahmedabad during September.
 
 
 Each product takes time, effort, and skill to make. The women look forward to seeing their work displayed at exhibitions and are delighted when their creations find buyers. These opportunities help their work reach new audiences while giving greater visibility to the knowledge and craftsmanship they bring to it.
@@ -41,8 +41,8 @@ We sat in a circle and passed a ball of yarn from one person to another, express
 ![Passing the yarn](/assets/images/Yarn.jpg)
 Photo of people sitting in a circle passing a yarn around to create a web
 
-There were many heartwarming moments during the activity. Experienced tailors thanked younger colleagues for helping them decode instructions on using new machines, while weavers expressed gratitude to those who sourced the bulrush grass they work with. Others appreciated the Janastu staff who keep the internet running, which helps the women explore new techniques and ideas available online. The day ended with an impromptu Kannada reading session, with the women sharing short stories and reflecting on them together.
-The workshop served to remind us how everyday acts of support and the knowledge we share bring our community together.
+There were many heartwarming moments during the activity. Experienced tailors thanked younger colleagues for helping them decode instructions on using new sewing machines, while weavers expressed gratitude to those who sourced the bulrush grass they work with. Others appreciated the Janastu staff who keep the internet running, which helps the women explore new techniques and ideas available online. The day ended with an impromptu Kannada reading session in which we read short stories and reflected on them together.
+The workshop reminded us how everyday acts of support and the knowledge we share bring our community together.
 
 
 ## What Does Freedom Mean? Celebrating Independence Day 
@@ -65,17 +65,17 @@ After being seated for nearly an hour in discussion, we played some movement-bas
 ## Cultural Exchange and Festivals 
 
 Festivals are an important part of life at CrafterSpace. They give us opportunities to come together, bond, and explore our creativity in ways that are not restricted to making products.
-At CrafterSpace, we typically celebrate the local Varamahalakshmi festival. However, two of our crafters lost their husbands earlier this year, and we chose not to hold certain traditional festivities this year out of respect for their grief. Instead, we celebrated Onam, the festival from neighbouring Kerala, instead of our usual Varmahalakshmi Puja celebration.
-We were delighted when Roshna, who has previously worked with Janastu and shares a close bond with the women, came down from Kerala to organise the celebration. She brought along her friend Rumi, and together they introduced us to the festival and helped lead the preparations. The work began the previous day, with our artisans decorating the gazebo and preparing the space. 
+At CrafterSpace, we typically celebrate the local Varamahalakshmi festival. However, two of our members lost their husbands earlier this year, and we chose not to hold certain traditional festivities this year as a gesture of respect. Instead, we celebrated Onam, the festival from neighbouring Kerala, instead of our usual Varmahalakshmi Puja celebration.
+We were delighted when Roshna, who has previously worked with Janastu and shares a close bond with the women, came from Kerala to organise the celebration. She brought along her friend Rumi, and together they introduced us to the festival and helped lead the preparations. The work began the previous day, with our artisans decorating the gazebo and preparing the space. 
 
 ![Decorations, Discussions and Sadhya!](/assets/images/onamCollage1.jpg)
 Photo collage: Decorations, food on banana leaf, and people celebrating Onam
 
-Some of the women brought their children, and one even brought her mother along. Roshna and Rumi explained the story behind Onam and why it is celebrated. We played traditional games and enjoyed a delicious Onam sadya—a festive meal featuring an assortment of vegetable dishes, gravies, and payasam. The day ended with small prizes for the winners of the games. It was a lovely time spent together discovering the culture of a neighbouring state, sharing meals and snacks, and enjoying ourselves together. 
+Some of the women brought their children, and one even brought her mother along. Roshna and Rumi explained the story behind Onam and why it is celebrated. We played traditional games and enjoyed a delicious Onam sadya — a festive meal featuring an assortment of vegetable dishes, gravies, and payasam. The day ended with small prizes for the winners of the games. It was a happy time spent together discovering the culture of a neighbouring state, sharing meals and snacks, and enjoying ourselves together. 
 ![Onam Games and Prizes](/assets/images/onameCollage2.jpg)
 Photo Collage: People posing for photographs and playing Onam games
 
-We also celebrated Ayudha Puja, a festival that honours the tools and implements we depend on in our daily lives. The artisans cleaned the entire CrafterSpace and performed puja for their tools, including tailoring machines and weaving implements that are part of their everyday work, creativity, and livelihood. After the puja, we shared a traditional breakfast prepared by our local cook Manjamma, and sweets and clothes were distributed to everyone. 
+We also celebrated Ayudha Puja, a festival that honours the tools and implements we depend on in our daily lives. The artisans cleaned CrafterSpace and performed puja for their tools, including tailoring machines and weaving implements that are part of their everyday work, creativity, and livelihood. After the puja, we shared a traditional breakfast prepared by our local cook Manjamma, and sweets and clothes were distributed to everyone. 
 
 
 ## Community Reading Circles
