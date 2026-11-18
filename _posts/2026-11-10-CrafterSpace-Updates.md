@@ -150,9 +150,8 @@ We hope these initiatives help more women – particularly those who spend much 
 
 ## Visit Us
 
-There's always something happening at CrafterSpace – crafts, reading, learning, or simply women spending time together to listen to each other.
-We're grateful to everyone who has been part of these past few months, and we look forward to welcoming more people into our community.
-Do visit us at future exhibitions and gatherings, meet the women, and explore their handmade creations. Follow us on Instagram to stay updated on our crafts, activities, and upcoming events.
+We're grateful to everyone who has been part of our activities these past few months, and we look forward to welcoming more people into our community.
+Visit us at CrafterSpace, meet the women, and explore their handmade creations. We will also be present in exhibitions and other events around Bangalore and elsewhere. Follow us on Instagram to stay updated on our crafts, activities, and upcoming events.
 We look forward to seeing you!
 
 
