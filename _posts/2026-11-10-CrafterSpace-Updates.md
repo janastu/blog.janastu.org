@@ -45,7 +45,7 @@ There were many heartwarming moments during the activity. Experienced tailors th
 The workshop reminded us how everyday acts of support and the knowledge we share bring our community together.
 
 
-## What Does Freedom Mean? Celebrating Independence Day 
+## What Does Freedom Mean?
 
 On 15 August, we celebrated Independence Day with an interactive discussion led by Shashi about freedom, authority, protest, self-reliance, and equality.
 
