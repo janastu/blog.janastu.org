@@ -24,7 +24,7 @@ Our crafts have been well received by visitors to the India Handmade Collective 
 
 ![At IHMC’s exhibition in Bangalore International Centre, Domlur](/assets/images/ihmcBIC.jpg)
 
-Picture: At IHMC’s exhibition in Bangalore International Centre, Domlur.
+Photo: At IHMC’s exhibition in Bangalore International Centre, Domlur.
 
 Beyond exhibiting their work, the women have been sharing their skills directly with others. At Ambedkar Bhavan's Bodhi Park in Bengaluru, they conducted a workshop teaching participants to weave baskets from *jondu*, the bulrush grass they work with. We also conducted workshops on weaving with jondu as part of IHMC’s eco workshops in Ahmedabad during September.
 
