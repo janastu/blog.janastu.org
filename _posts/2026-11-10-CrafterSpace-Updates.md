@@ -101,7 +101,7 @@ We are facilitating these reading circles as part of *Voices from the Forest*, a
 ## Movement and Wellbeing Circles
 
 We have been holding regular gentle yoga practice circles at CrafterSpace since August. The idea for these sessions emerged from conversations with the women, many of whom had expressed interest in practising yoga together. Our engagement with the community has helped us understand the many challenges women face, including the demands of domestic responsibilities, limited opportunities to prioritise their own health, and various forms of social and domestic injustice. Many also experience health concerns such as musculoskeletal pain, fatigue, stress-related digestive problems, and limited mobility.
-We set aside 30–40 minutes towards the end of each day to support the women to slow down and focus on themselves and their own wellbeing before they return to their responsibilities at home. We practise basic warm-ups, gentle yoga asanas, and slow movements, sometimes followed by breathing exercises and simple meditation techniques. The sessions are open to other women in the surrounding villages, and people occasionally drop in to join us.
+We set aside 30 to 40 minutes towards the end of each day to support the women to slow down and focus on themselves and their own wellbeing before they return to their responsibilities at home. We practise basic warm-ups, gentle yoga asanas, and slow movements, sometimes followed by breathing exercises and simple meditation techniques. The sessions are open to other women too in the surrounding villages, and people occasionally drop in to join us.
 ![Daily Yoga Practice Circle](/assets/images/yogacircle.jpg)
 Photo of people practising yoga seated in a circle
 
@@ -132,14 +132,14 @@ In October, Anusha, a fashion technology student, spent several days with us, ex
 The women, meanwhile, were impressed by how quickly Anusha picked up some of the weaving techniques!
 
 
-These exchanges remind us that traditional crafts have much to offer new generations of designers and makers. The women at CrafterSpace are skilled artisans and teachers whose knowledge deserves to be recognised and shared.
+These exchanges show us that traditional crafts have much to offer new generations of designers and makers. The women at CrafterSpace are skilled artisans and teachers whose knowledge deserves to be recognised and shared.
 
 
 ## Inclusive Economic Opportunities
 
 At CrafterSpace, we want to create opportunities for people from the surrounding villages  to contribute their skills and earn an income in ways that work for their circumstances.
-One particularly heartening development has been the contribution of Shivanna, the husband of our beloved crafter Kusuma. After an injury left him paralyzed, Kusuma had been the sole breadwinner for their family. Not somebody to stay idle, Shivanna began exploring his creative side with drawings and embroidery and began to make beautiful embroidered designs. We were deeply touched by his skill, resilience and creativity. 
-Although CrafterSpace is a women's space, we're happy to welcome Shivanna as an additional contributor. We're glad that this engagement with CrafterSpace allows him to use his creativity and passion while supporting his family too.
+One particularly heartening development has been the contribution of Shivanna, the husband of our beloved crafter Kusuma. After an injury left him paralyzed, Kusuma had been the sole breadwinner for their family. Not somebody to stay idle, Shivanna began exploring his creative side with drawings and embroidery and began to make beautiful embroidered designs. We were deeply touched by his creativity and resilience. 
+Although CrafterSpace is a women's space, we're happy to welcome Shivanna as a contributor. We're glad that this engagement with CrafterSpace allows him to use his creativity and passion while supporting his family too.
 
 ![Shivanna and his craft](/assets/images/shivanna.jpg)
 Photo collage of Shivanna and his embroideries
