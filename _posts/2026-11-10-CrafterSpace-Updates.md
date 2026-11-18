@@ -108,7 +108,7 @@ Photo of people practising yoga seated in a circle
 On 24th October, we welcomed Pooja, a yoga teacher based in Bengaluru, for a special half-day session. Pooja is a frequent visitor to Janastu's IruWay Farm and previously spent time with Janastu as an intern while pursuing her master's in social work.
 
 ![Yoga Workshop](/assets/images/yoga.jpg)
-Collage of people practising yoga
+Photo collage of people practising yoga
 
 She guided us through gentle warm-ups, Surya Namaskara, and movements suited to people who spend long hours sitting. She also shared asanas and practical tips relating to health concerns such as thyroid disorders, PCOS/PCOD and diabetes. We ended with a discussion about diet and nutrition.
 
