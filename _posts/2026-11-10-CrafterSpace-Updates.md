@@ -87,7 +87,7 @@ The sessions are facilitated by Bhyresh, a recent library science graduate from 
 Together, we read short stories and chapters from non-fiction books. Our current reading has taken us into the fascinating world of forest creatures, including bats and birds.
 
 ![Daily Reading Circle](/assets/images/readings.jpg)
-Photo of people seated in a reading a book
+Photo of people seated in a circle reading a book
 
 We record the stories and essays in the participants' own voices. We hope to compile these recordings into an audiobook series that can be enjoyed by others, including people with limited access to written material. Subject to copyright and permissions, we plan to share recordings online and through the local Wi-Fi mesh network.
 
