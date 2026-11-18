@@ -91,7 +91,6 @@ Photo of people seated in a circle reading a book
 
 We record the stories and essays in the participants' own voices. We hope to compile these recordings into an audiobook series that can be enjoyed by others, including people with limited access to written material. Subject to copyright and permissions, we plan to share recordings online and through the local Wi-Fi mesh network.
 
-Please compile a few story readings on stories.janastu and put link here
 
 The readings are a small daily practice with the potential to open up new worlds through stories, develop the community women’s reading expression skills, and support them in bringing out their own voices.
 
