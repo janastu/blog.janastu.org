@@ -95,7 +95,7 @@ We record the stories and essays in the participants' own voices. We hope to com
 
 The readings are a small daily practice with the potential to open up new worlds through stories, develop the community women’s reading expression skills, and support them in bringing out their own voices.
 
-We are facilitating these reading circles as part of Voices from the Forest, a project funded by the Association for Progressive Communications (APC). The project aims to develop feminist infrastructure for rural women and create space for their voices to be heard.
+We are facilitating these reading circles as part of *Voices from the Forest*, a project funded by the Association for Progressive Communications (APC). The project aims to develop feminist infrastructure for rural women and create space for their voices to be heard.
 
 
 ## Movement and Wellbeing Circles
