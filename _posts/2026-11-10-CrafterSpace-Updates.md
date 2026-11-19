@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Community, connection and inclusive economic opportunities"
+title:  "Community, wellbeing and inclusive economic opportunities"
 excerpt: "A glimpse of recent activities and updates from CrafterSpace"
 author: janastu
 featured: true
@@ -10,11 +10,9 @@ comments: true
 tags: [CrafterSpace, village, festivals, crafts, livelihood]
 ---
 
-# Community, connection and inclusive economic opportunities: A glimpse of recent activities and updates from CrafterSpace
+# Community, wellbeing and inclusive economic opportunities: A glimpse of recent activities and updates from CrafterSpace
 
-The recent months at CrafterSpace have been filled with learning, celebrations, and opportunities to connect with one another. Alongside making products, the women have been exploring new ideas, sharing their skills, reading stories, practising yoga, and taking their crafts to new audiences.
-
-Here's a glimpse of what we've been up to\!
+The recent months at CrafterSpace have been filled with learning, celebrations, and opportunities to connect with one another. Alongside making products, the women have been exploring new ideas, sharing their skills, reading stories, practising yoga, and taking their crafts to new audiences. Here's a glimpse of what we've been up to\!
 
 ## Taking our artisans’ crafts to new audiences
 
