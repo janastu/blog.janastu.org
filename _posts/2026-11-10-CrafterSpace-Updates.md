@@ -153,7 +153,7 @@ Visit us at CrafterSpace, meet the women, and explore their handmade creations. 
 We look forward to seeing you!
 
 
-[Visit our website: https://crafts.janastu.org](https://crafts.janastu.org)
+Visit our website: [https://crafts.janastu.org](https://crafts.janastu.org)
 
 
 [Follow us on Instagram](https://www.instagram.com/crafter_space)
