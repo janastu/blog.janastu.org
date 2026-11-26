@@ -10,9 +10,9 @@ comments: true
 tags: [CrafterSpace, village, festivals, crafts, livelihood]
 ---
 
-# Community, wellbeing and inclusive economic opportunities: A glimpse of recent activities and updates from CrafterSpace
+# Iruway CrafterSpace: Community, wellbeing and inclusive economic opportunities
 
-The recent months at CrafterSpace have been filled with learning, celebrations, and opportunities to connect with one another. Alongside making products, the women have been exploring new ideas, sharing their skills, reading stories, practising yoga, and taking their crafts to new audiences. Here's a glimpse of what we've been up to\!
+The recent months at [CrafterSpace] (https://crafts.janastu.org/) have been filled with learning, celebrations, and opportunities to connect with one another. Alongside making products, the women have been exploring new ideas, sharing their skills, reading stories, practising yoga, and taking their crafts to new audiences. Here's a glimpse of what we've been up to\!
 
 ## Taking our artisans’ crafts to new audiences
 
@@ -152,6 +152,11 @@ We're grateful to everyone who has been part of our activities these past few mo
 Visit us at CrafterSpace, meet the women, and explore their handmade creations. We will also be present in exhibitions and other events around Bangalore and elsewhere. Follow us on Instagram to stay updated on our crafts, activities, and upcoming events.
 We look forward to seeing you!
 
+
+Our Website: https://crafts.janastu.org/
+
+
+[Follow us on Instagram] (https://www.instagram.com/crafter_space)
 
 
 
